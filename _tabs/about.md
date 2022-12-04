@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-note }
+> Blog ma za zadanie zbierać rozrzucone okruchy wiedzy z różnych dziedzin; medycyny, żywienia, psychologii, socjologii, ekologii i innych. W rozmowach ze swoimi pacjentami często przytaczam badania naukowe, formułuje wnioski, wypowiadam opinie. Chcąc umożliwić sobie i pacjentom możliwość weryfikacji informacji, na stronach tego bloga zamiaszczam odnośniki do informacji, na których sie opieram.
+
+Krzysztof Stańkowski
+psychiatra

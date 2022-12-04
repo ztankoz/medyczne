@@ -16,19 +16,17 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Warsaw
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Episteme et doxa                          # the main title
 
-tagline: Zbiór prac   # it will display as the sub-title
+tagline: Zmierzch myślenia lewopółkulowego   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Zbiór prac podważających arogancką narrację medycyny akademickiej
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
