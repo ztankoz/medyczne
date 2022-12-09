@@ -9,7 +9,8 @@ author:
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/pdf/WJG-18-4593.pdf
 ---
 
-> Komentarz
+> Komentarz: 
+> Jak mantrę dietetycy przypominają o zbawiennym wpływie spożywania dużych ilości błonnika na zaparcia. Poniższa praca interwencyjna nie potwierdza zasadności tego typu twierdzeń. Wnioseki z pracy są zgoła odmienne. 
 > 
 <hr>
 

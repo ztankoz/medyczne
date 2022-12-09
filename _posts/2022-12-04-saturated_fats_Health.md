@@ -9,7 +9,8 @@ author:
   link: https://pubmed.ncbi.nlm.nih.gov/32562735/
 ---
 
->Komentarz
+>Komentarz: 
+>Autorzy podważają obecne zalecenia dietetyczne zalecające ograniczenie spożycia tłuszczy nasyconych
 >
 <hr>
 

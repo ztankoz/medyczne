@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " The effect of the Spanish Ketogenic Mediterranean Diet on nonalcoholic fatty liver disease: a pilot study "
+title: "The effect of the Spanish Ketogenic Mediterranean Diet on nonalcoholic fatty liver disease: a pilot study "
 date: 2022-12-04 22:14
 categories: [dieta, choroby]
 tags: [dieta ketogeniczna, dieta niskowęglowodanowa, zespół metaboliczny, niealkoholowe stłuszczenie wąytoby, dieta proteinowa]
@@ -9,7 +9,8 @@ author:
   link: https://pubmed.ncbi.nlm.nih.gov/21688989/
 ---
 
-> Komentarz
+> Komentarz: 
+> Nieco myląca nazwa diety ale cel słuszny. Ograniczenie podaży olejów nasiennych, zwiększenie ilości mięsa czerwonego, zmniejszenie ilości węglowodanów. Pozytywny wpływ na zmniejszenie stłuszczenia wątroby i całość obrazu zespołu metabolicznego.
 > 
 <hr>
 

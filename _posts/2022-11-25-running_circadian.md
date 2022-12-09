@@ -9,7 +9,8 @@ author:
   link: https://pubmed.ncbi.nlm.nih.gov/35470095/
 ---
 
-> komentarz 
+> Komentarz: 
+> Wpływ czasu aktywności fizycznej na ekspresje genów. Możliwość modyfikowania ekspresji genów i metabolizmu zmianami wzorców zachowań. Badania na myszach
 
 <hr>
 

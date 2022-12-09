@@ -9,7 +9,8 @@ author:
   link: https://link.springer.com/article/10.1007/s13679-021-00460-y
 ---
 
-> Komentarz
+> Komentarz: 
+> "Produkty UPF (produkty wysokoprzetworzone) są zwykle bardziej energetyczne niż odżywcze, a ich spożycie wiąże się ze zwiększoną otyłością i ryzykiem chorób współistniejących. Dane te sugerują, że zalecenia dotyczące ograniczenia spożycia UPF mogą być korzystne dla zdrowia"
 > 
 <hr>
 
@@ -36,5 +37,3 @@ W badaniach obserwacyjnych, spożycie UPF jest konsekwentnie związane ze zwięk
 
 Podsumowanie
 Produkty UPF są zwykle bardziej energetyczne niż odżywcze, a ich spożycie wiąże się ze zwiększoną otyłością i ryzykiem chorób współistniejących. Dane te sugerują, że zalecenia dotyczące ograniczenia spożycia UPF mogą być korzystne dla zdrowia - choć potrzebne są dalsze badania mechanistyczne.
-
-Przetłumaczono z www.DeepL.com/Translator (wersja darmowa)

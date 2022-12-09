@@ -9,8 +9,8 @@ author:
   link: https://pubmed.ncbi.nlm.nih.gov/31569235/
 ---
 
-> Komentarz
-> 
+> Komentarz: 
+> Brak podstaw naukowych by cokolwiek zmieniać w zakresie spożywania mięsa, które jest podstawą naszej diety od kilku milionów lat i co spowodowało sukces ewolucyjny naszego gatunku
 <hr>
 
 [Skrót do pracy w pubmed](https://pubmed.ncbi.nlm.nih.gov/31569235/) 

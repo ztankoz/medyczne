@@ -9,8 +9,9 @@ author:
    link: https://www.pnas.org/content/106/42/17787
 ---
 
+> Komentarz:
 > Insulinooporność jako komórkowy mechanizm obronny.
-> Należy oddzielić insulinooporność jako objaw zaburzeń matabolicznych uwidaczniający sie jako wysoki poziom insuliny na czczo, utrzymujący stabilne poziomy glikemii w tym okresie od insulinooporności komórkowej związanej z mechanizmami regulacji na poziomie pojedynczej komórki. 2. żyjemy w świecie obfitości, podsycanym przez nasze instynkty. Kiedys przeciwwagą było "nieprzyjazne choć równoważące" środowisko. Gdy je okiełznaliśmy nasze instynkty stały się "poborcami podatkowymi na naszym zdrowiu."
+> Należy oddzielić insulinooporność jako objaw zaburzeń matabolicznych uwidaczniający sie jako wysoki poziom insuliny na czczo, utrzymujący stabilne poziomy glikemii w tym okresie od insulinooporności komórkowej związanej z mechanizmami regulacji na poziomie pojedynczej komórki. Żyjemy w świecie obfitości, podsycanym przez nasze instynkty. Kiedys przeciwwagą było "nieprzyjazne choć równoważące" środowisko. Gdy je okiełznaliśmy nasze instynkty stały się "poborcami podatkowymi na naszym zdrowiu."
 
 <hr>
 
