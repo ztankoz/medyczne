@@ -4,9 +4,9 @@ title: "Insulin resistance is a cellular antioxidant defense mechanism"
 date: 2020-06-05 22:41:38 +0200
 tags: [insulinooporność, insulinowrażliwość, ros]
 categories: [metabolizm]
-author: 
-   name: "Kyle L. Hoehn, Adam B. Salmon, Cordula Hohnen-Behrens, Nigel Turner, Andrew J. Hoy, Ghassan J. Maghzal, Roland Stocker, Holly Van Remmen, Edward W. Kraegen, Greg J. Cooney, Arlan R. Richardson, and David E. James PNAS October 20, 2009 106 (42) 17787-17792;"
-   link: https://www.pnas.org/content/106/42/17787
+author:
+  name: "Kyle L. Hoehn, Adam B. Salmon, Cordula Hohnen-Behrens, Nigel Turner, Andrew J. Hoy, Ghassan J. Maghzal, Roland Stocker, Holly Van Remmen, Edward W. Kraegen, Greg J. Cooney, Arlan R. Richardson, and David E. James PNAS October 20, 2009 106 (42) 17787-17792;"
+  link: https://www.pnas.org/content/106/42/17787
 ---
 
 > Komentarz:

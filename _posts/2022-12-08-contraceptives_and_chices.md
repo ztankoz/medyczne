@@ -10,7 +10,7 @@ author:
 ---
 
 > Komentarz: 
-> Substancje stosowwane jako tabletki antykoncepcyjne wpływają na wybory partnerów dokonywane prze kobiety.
+> Substancje stosowane jako tabletki antykoncepcyjne wpływają na wybory partnerów dokonywane przez kobiety.
 > Preferowani są partnerzy "mniej męscy" i fenotypowo bardziej podobni do partnerki (genetyczne podobieństwo wzrasta)
 <hr>
 

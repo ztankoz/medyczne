@@ -16,3 +16,7 @@ author:
 
 [Skrót do filmu na youtube](https://youtu.be/vw7YXUZ1SL0) 
 
+Warunki dobrego postępowania medycznego
+- najpełniejsza wiedza medyczna
+- doświadczenie lekarza
+- preferencje pacjenta
