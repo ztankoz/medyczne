@@ -2,7 +2,7 @@
 layout: post
 title: "Ketosis leads to increased methylglyoxal production on the Atkins diet "
 date: 2022-12-16 20:16
-categories: [diet]
+categories: [dieta]
 tags: [ketoza, methyglyoxal, aceton]
 author:
   name: "BENJAMIN G. K. BEISSWENGER, ELIZABETH M. DELUCIA, NANCY LAPOINT, REBECCA J. SANFORD, AND PAUL J. BEISSWENGER "

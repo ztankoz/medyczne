@@ -2,7 +2,7 @@
 layout: post
 title: "Long-term fructose consumption accelerates glycation and several age-related variables in male rats "
 date: 2022-12-16 19:51
-categories: [matabolizm]
+categories: [metabolizm]
 tags: [fruktoza, węglowodany, glikacja, starzenie, kolagen]
 author:
   name: " Boaz Levi and Moshe J. Werman4"
