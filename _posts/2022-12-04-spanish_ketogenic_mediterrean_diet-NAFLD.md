@@ -2,7 +2,7 @@
 layout: post
 title: "The effect of the Spanish Ketogenic Mediterranean Diet on nonalcoholic fatty liver disease: a pilot study "
 date: 2022-12-04 22:14
-categories: [dieta, choroby]
+categories: [choroby]
 tags: [dieta ketogeniczna, dieta niskowęglowodanowa, zespół metaboliczny, niealkoholowe stłuszczenie wąytoby, dieta proteinowa]
 author:
   name: "Joaquı´n Pe´rez-Guisado and Andre´s Mun˜oz-Serrano"

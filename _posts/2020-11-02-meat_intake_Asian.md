@@ -2,8 +2,8 @@
 layout: post
 title: "Meat intake and cause-specyfic mortality: a pooled analysis of Asian prospective cohort studies"
 date: 2022-12-14 21:52
-categories: [śmiertelność, mięso, białko, epidemiologia]
-tags: [dieta]
+categories: [dieta]
+tags: [śmiertelność, mięso, białko, epidemiologia]
 author:
   name: "ung Eun Lee 1 , Dale F McLerran, Betsy Rolland, Yu Chen, Eric J Grant, Rajesh Vedanthan, Manami Inoue, Shoichiro Tsugane, Yu-Tang Gao, Ichiro Tsuji, Masako Kakizaki, Habibul Ahsan, Yoon-Ok Ahn, Wen-Harn Pan, Kotaro Ozasa, Keun-Young Yoo, Shizuka Sasazuki, Gong Yang, Takashi Watanabe, Yumi Sugawara, Faruque Parvez, Dong-Hyun Kim, Shao-Yuan Chuang, Waka Ohishi, Sue K Park, Ziding Feng, Mark Thornquist, Paolo Boffetta, Wei Zheng, Daehee Kang, John Potter, Rashmi Sinha "
   link: https://pubmed.ncbi.nlm.nih.gov/23902788/

@@ -2,7 +2,7 @@
 layout: post
 title: "Stopping or reducing dietary fiber intake reduces constipation and its associated symptoms"
 date: 2022-12-04 21:37
-categories: [dieta, objawy]
+categories: [dieta]
 tags: [błonnik, zaparcia, wzdęcia]
 author:
   name: "Kok-Sun Ho, Charmaine You Mei Tan, Muhd Ashik Mohd Daud, Francis Seow-Choen"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Regulatory T Cell Proportion and Phenotype Are Altered in Women Using Oral Contraception "
 date: 2022-12-08 20:24
-categories: [odporność, antykoncepcja]
+categories: [antykoncepcja]
 tags: [leki antykoncepcyjne, leki hormonalne, limfocyty T, zaburzenia autoimmunologiczne]
 author:
   name: "Lachlan M. Moldenhauer, 1, *, Min Jin, 1,2, * Jasmine J. Wilson, 1, Ella S. Green, 1, David J. Sharkey, 1, Mark D. Salkeld, 1 Thomas C. Bristow, 1 M. Louise Hull, 3, Gustaaf A. Dekker, 3,4 and Sarah A. Robertson1, "

@@ -2,7 +2,7 @@
 layout: post
 title: "Beef tallow increases apoptosis and decreases aberrant crypt foci formation relative to soybean oil in rat colon "
 date: 2022-12-14 22:15
-categories: [metabolizm, dieta]
+categories: [dieta]
 tags: [dieta, tłuszcz, LA, nowotwór, kwas linolenowy]
 author:
   name: "Jinmo Khil 1 , Daniel D Gallaher "

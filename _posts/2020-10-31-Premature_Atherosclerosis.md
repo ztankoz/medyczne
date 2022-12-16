@@ -3,7 +3,7 @@ layout: post
 title: "Premature Atherosclerosis Associated With Monogenic Insulin Resistance"
 date: 2020-10-30 22:41:55 +0200
 Tags: [insulinooporność, matabolizm, tłuszcz, miażdżyca]
-categories: [metabolizm, choroby]
+categories: [choroby]
 author: 
   name: "Robert A. Hegele"
   link: https://pubmed.ncbi.nlm.nih.gov/11342468/

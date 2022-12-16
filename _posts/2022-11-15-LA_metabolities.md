@@ -2,7 +2,7 @@
 layout: post
 title: "Lowering dietary linoleic acid reduces bioactive oxidized linoleic acid metabolites in humans"
 date: 2020-11-01 21:41:38 +0200
-categories: [metabolizm, dieta]
+categories: [metabolizm]
 tags: [insulinooporność, insulinowrażliwość, matabolizm, tłuszcz]
 author:
   name: "Christopher E. Ramsden,1,2, Amit Ringel,1 Ariel E. Feldstein,3,4 Ameer Y. Taha,5 Beth A. MacIntosh,6 Joseph R. Hibbeln,1 Sharon F. Majchrzak-Hong,1 Keturah R. Faurot,2 Stanley I. Rapoport,5 Yewon Cheon,5 Yoon-Mi Chung,4 Michael Berk,4 and J. Douglas Mann"

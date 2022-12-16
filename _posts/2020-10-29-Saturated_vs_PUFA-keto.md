@@ -2,7 +2,7 @@
 layout: post
 title: "Differential Metabolic Effects of Saturated Versus Polyunsaturated Fats in Ketogenic Diets "
 date: 2022-12-10 21:52
-categories: [matabolizm]
+categories: [metabolizm]
 tags: [ insulinooporność, insulinowrażliwość, matabolizm, cukier, tłuszcz, dieta, keto, PUFA]
 author:
   name: "Brian S. Fuehrlein, Michael S. Rutenberg, Jared N. Silver, Matthew W. Warren, Douglas W. Theriaque, Glen E. Duncan, Peter W. Stacpoole, Mark L. Brantly "

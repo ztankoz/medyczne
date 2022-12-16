@@ -2,7 +2,7 @@
 layout: post
 title: "Is it saturated fat or polyunsaturated fat that’s killing you? Peter Dobromylskyj from Hyperlipid"
 date: 2020-10-29 22:41:38 +0200
-category: metabolizm dieta
+category: [metabolizm]
 Tags: insulinooporność insulinowrażliwość cukier tłuszcz matabolizm ros wideo
 author: 
   name: "Interlokutorzy: Peter Dobromylskyj i Paul Saladino"
