@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Zbiór prac podważających arogancką narrację medycyny akademickiej
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://medycyna.stankos.net'
 
 github:
   username: ztankoz             # change to your github username
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
+img_cdn: 'https://medycyna.stankos.net/assets/img/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/favicons/favicon.ico'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

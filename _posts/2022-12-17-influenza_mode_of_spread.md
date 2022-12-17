@@ -11,5 +11,7 @@ author:
 
 > Komentarz:
 > Próbowano zbadać jakimi drogami odbywa się zakażenie wirusem grypy w czasie pandemii 1917-1919 roku.
+> Zaskakujące wyniki.
+> Nie udało mi się znaleźć ponownych eksperymentów współczesnych.
 
-[label](../assets/img/influenza.pdf)
+[Experiments to determine mode of spread of influenza - plik PDF](/assets/influenza.pdf)
