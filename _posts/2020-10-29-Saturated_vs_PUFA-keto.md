@@ -10,8 +10,11 @@ author:
 ---
 
 > Komentarz:
-> W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To świadczy o tym, że mitochondria stale wytwarzaja gradient protonowy mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie. Insulinowrażliwość powoduje pozbywanie sie glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna
-> Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone. Wyższe poziomy uzyskują badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego.
+> Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone.
+> Wyższe poziomy uzyskują badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego i fizjologicznych konsekwencji dla równowagi metabolicznej.
+> W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To gwarantuje zachowanie energii w sytuacji głodu (najczęstrza przyczyna ketozy).
+> Eksperyment świadczy o tym, że stososowanie PUFA (POLY) nasila wytwarzanie gradientu protonowego mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie. Jednocześnie insulinowrażliwość powoduje pozbywanie się glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna.
+
 
 <hr>
 

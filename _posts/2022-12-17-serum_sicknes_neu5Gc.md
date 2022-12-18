@@ -1,0 +1,26 @@
+---
+layout: post
+title: "From Serum Sickness to Xenosialitis: Past, Present, and Future Significance of the Non-human Sialic Acid Neu5Gc "
+date: 2022-12-17 22:25
+categories: [immunologia]
+tags: [Neu6gC, anti-Neu5Gc, przeciwciała, zapalenie, czerwone mięso, sialic acid]
+author:
+  name: "Chirag Dhar 1,2, Aniruddha Sasmal 1,2 and Ajit Varki "
+  link: https://pubmed.ncbi.nlm.nih.gov/31057542/
+---
+
+> Komentarz:
+> "xenosialitis" may have important". Może. Ale inni badacze nie dywagują tylko to zbadali jak w przeszczepach nerak i nie znaleźli problemu. Więc może zamiast teoretyzować warto zabrać się za rzetelne badania. 
+> Praca teoretyzująca jak mogłoby sie dzieć gdyby sie działo.
+> 
+<hr>
+
+[Skrót do pracy](https://pubmed.ncbi.nlm.nih.gov/31057542/) 
+
+### Abstract
+The description of "serum sickness" more than a century ago in humans transfused with animal sera eventually led to identification of a class of human antibodies directed against glycans terminating in the common mammalian sialic acid _N-_Glycolylneuraminic acid (Neu5Gc), hereafter called "Neu5Gc-glycans." The detection of such glycans in malignant and fetal human tissues initially raised the possibility that it was an oncofetal antigen. However, "serum sickness" antibodies were also noted in various human disease states. These findings spurred further research on Neu5Gc, and the discovery that it is not synthesized in the human body due to a human-lineage specific genetic mutation in the enzyme _CMAH_. However, with more sensitive techniques Neu5Gc-glycans were detected in smaller quantities on certain human cell types, particularly epithelia and endothelia. The likely explanation is metabolic incorporation of Neu5Gc from dietary sources, especially red meat of mammalian origin. This incorporated Neu5Gc on glycans appears to be the first example of a "xeno-autoantigen," against which varying levels of "xeno-autoantibodies" are present in all humans. The resulting chronic inflammation or "xenosialitis" may have important implications in human health and disease, especially in conditions known to be aggravated by consumption of red meat. In this review, we will cover the early history of the discovery of "serum sickness" antibodies, the subsequent recognition that they were partly directed against Neu5Gc-glycans, the discovery of the genetic defect eliminating Neu5Gc production in humans, and the later recognition that this was not an oncofetal antigen but the first example of a "xeno-autoantigen." Further, we will present comments about implications for disease risks associated with red meat consumption such as cancer and atherosclerosis. We will also mention the potential utility of these anti-Neu5Gc-glycan antibodies in cancer immunotherapy and provide some suggestions and perspectives for the future. Other reviews in this special issue cover many other aspects of this unusual pathological process, for which there appears to be no other described precedent.
+
+*Tłumaczenie automatyczne*
+
+### Streszczenie
+Opis "choroby surowicy" ponad sto lat temu u ludzi, którym przetoczono surowice zwierzęce, doprowadził w końcu do identyfikacji klasy ludzkich przeciwciał skierowanych przeciwko glikanom zakończonym wspólnym dla ssaków kwasem sialowym N-Glikoliloneuraminowym (Neu5Gc), zwanym dalej "Neu5Gc-glikanami". Wykrycie takich glikanów w złośliwych i płodowych tkankach ludzkich początkowo wzbudziło możliwość, że jest to antygen onkofetalny. Jednakże przeciwciała "choroby surowicy" zostały również odnotowane w różnych ludzkich stanach chorobowych. Te odkrycia pobudziły dalsze badania nad Neu5Gc i odkrycie, że nie jest on syntetyzowany w organizmie ludzkim z powodu specyficznej dla linii ludzkiej mutacji genetycznej w enzymie CMAH. Jednakże przy zastosowaniu bardziej czułych technik glikany Neu5Gc były wykrywane w mniejszych ilościach na niektórych rodzajach komórek ludzkich, szczególnie na nabłonku i śródbłonku. Prawdopodobnym wyjaśnieniem jest metaboliczna inkorporacja Neu5Gc ze źródeł żywieniowych, zwłaszcza czerwonego mięsa pochodzenia ssaków. Ten włączony Neu5Gc na glikanach wydaje się być pierwszym przykładem "ksenoautoantygenów", przeciwko którym występują różne poziomy "ksenoautoprzeciwciał" u wszystkich ludzi. Wynikający z tego przewlekły stan zapalny lub "xenosialitis" może mieć ważne implikacje dla ludzkiego zdrowia i choroby, zwłaszcza w warunkach, o których wiadomo, że są nasilane przez spożycie czerwonego mięsa. W tym przeglądzie omówimy wczesną historię odkrycia przeciwciał "choroby surowicy", późniejsze uznanie, że były one częściowo skierowane przeciwko Neu5Gc-glikanom, odkrycie defektu genetycznego eliminującego produkcję Neu5Gc u ludzi i późniejsze uznanie, że nie był to antygen onkofetalny, ale pierwszy przykład "ksenoautoantygenu". Dalej, przedstawimy uwagi dotyczące implikacji dla ryzyka chorób związanych z konsumpcją czerwonego mięsa, takich jak rak i miażdżyca. Wspomnimy również o potencjalnej użyteczności tych przeciwciał anty-Neu5Gc-glikanowych w immunoterapii nowotworów i przedstawimy pewne sugestie i perspektywy na przyszłość. Inne przeglądy w tym specjalnym wydaniu obejmują wiele innych aspektów tego niezwykłego procesu patologicznego, dla którego wydaje się, że nie ma innego opisanego precedensu.
