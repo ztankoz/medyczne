@@ -5,12 +5,13 @@ date: 2022-12-17 22:44
 categories: [metabolizm, teoria]
 tags: [Neu5Gc, sialic acid, nowotwór]
 author:
-  name: "# Mechanism of uptake and incorporation of the non-human sialic acid N-glycolylneuraminic acid into human cells"
+  name: "Muriel Bardor‡, Dzung H. Nguyen, Sandra Diaz, and Ajit Varki"
   link: https://pubmed.ncbi.nlm.nih.gov/15557321/
 ---
 
 > Komentarz:
-> Teoretycznie, jak mogłoby działać i dlaczego mogłoby być niebezpieczne
+> Teoretycznie, jak mogłoby działać i dlaczego mogłoby być niebezpieczne - gdyby było.
+> Tego typu rozważania pozwalaja dostrzec jeden mechanizm i traktowac go jako izolowany czynnik. Tymczasem kolejnym krokiem powinna byc próba odpowiedzenia na pytanie, co organizm robi, że przez miliony lat ewolucji nie stanowiło to problemu i nadal nie stanowi
 > 
 <hr>
 

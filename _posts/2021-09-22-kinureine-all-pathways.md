@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The kynurenine pathway: a finger in every pie"
+date: 2021-09-22 18:56:38 +0200
+categories: [metabolizm]
+tags: [dieta, kynurenina]
+author:
+  name: " Jonathan Savitz "
+  link: https://pubmed.ncbi.nlm.nih.gov/30980044/
+---
+> Komentarz: Kynurenina i jej wpływ na różne szkali metaboliczne
+> Hipoteza z tego i innych artykułów: w depresji wzrasta spożycie cukru, to nasila przemiane tryptofanu w kinureninę zamiast w serotoninę. Kolejną przemianą jest kwas chinolinowy (quinolinic acid) w tkankach co nasila stan zapalny obwodowo oraz obraz neurotoksycznych zmian ośrodkowo. Zapalenie ukierunkowauje zmiane szlaku czy jest przez ta zmianę szlaku wywołane? Tak czy siak nadmierna podaż węglowodanów nasila proces zapalny i stanowi błędne koło na poziomie metabolicznym? Ciekawe spostrzeżenie Andrew Hubermana w podkaście (https://www.youtube.com/watch?v=Xu1FMCxoEFc), że aktywność fizyczna hamuje zmianę ścieżkę kineruniny. Podobnie moga działac większe ilości kwasów omega-3(EPA)
+
+<hr>
+<br>
+[Streszczenie tekstu pracy](https://pubmed.ncbi.nlm.nih.gov/30980044/) - pełny tekst wysyłam na prośbę moich pacjentów
+
+
+### Abstract
+The kynurenine pathway (KP) plays a critical role in generating cellular energy in the form of nicotinamide adenine dinucleotide (NAD+). Because energy requirements are substantially increased during an immune response, the KP is a key regulator of the immune system. Perhaps more importantly in the context of psychiatry, many kynurenines are neuroactive, modulating neuroplasticity and/or exerting neurotoxic effects in part through their effects on NMDA receptor signaling and glutamatergic neurotransmission. As such, it is not surprising that the kynurenines have been implicated in psychiatric illness in the context of inflammation. However, because of their neuromodulatory properties, the kynurenines are not just additional members of a list of inflammatory mediators linked with psychiatric illness, but in preclinical studies have been shown to be necessary components of the behavioral analogs of depression and schizophrenia-like cognitive deficits. Further, as the title suggests, the KP is regulated by, and in turn regulates multiple other physiological systems that are commonly disrupted in psychiatric disorders, including endocrine, metabolic, and hormonal systems. This review provides a broad overview of the mechanistic pathways through which the kynurenines interact with these systems, thus impacting emotion, cognition, pain, metabolic function, and aging, and in so doing potentially increasing the risk of developing psychiatric disorders. Novel therapeutic approaches targeting the KP are discussed. Moreover, electroconvulsive therapy, ketamine, physical exercise, and certain non-steroidal anti-inflammatories have been shown to alter kynurenine metabolism, raising the possibility that kynurenine metabolites may have utility as treatment response or therapeutic monitoring biomarkers.
+
+### Streszczenie
+Tłumaczenie automatyczne:
+Szlak kynureninowy (KP) odgrywa krytyczną rolę w generowaniu energii komórkowej w postaci dinukleotydu nikotynamido-adeninowego (NAD+). Ponieważ zapotrzebowanie na energię jest znacznie zwiększone podczas odpowiedzi immunologicznej, KP jest kluczowym regulatorem układu odpornościowego. Być może ważniejsze w kontekście psychiatrii jest to, że wiele kynurenin jest neuroaktywnych, modulujących neuroplastyczność i/lub wywierających działanie neurotoksyczne częściowo poprzez wpływ na sygnalizację receptora NMDA i neurotransmisję glutamatergiczną. W związku z tym nie jest zaskakujące, że kynureniny zostały powiązane z chorobami psychiatrycznymi w kontekście zapalenia. Jednak ze względu na ich właściwości neuromodulacyjne, kynureniny nie są tylko dodatkowymi członkami listy mediatorów zapalnych związanych z chorobami psychicznymi, ale w badaniach przedklinicznych wykazano, że są niezbędnymi składnikami behawioralnych analogów depresji i deficytów poznawczych podobnych do schizofrenii. Ponadto, jak sugeruje tytuł, KP jest regulowana przez wiele innych systemów fizjologicznych, które są powszechnie zaburzone w zaburzeniach psychicznych, w tym endokrynologicznych, metabolicznych i hormonalnych. Niniejszy przegląd zawiera szeroki przegląd mechanistycznych ścieżek, poprzez które kynureniny oddziałują z tymi systemami, wpływając w ten sposób na emocje, poznanie, ból, funkcje metaboliczne i starzenie się, a tym samym potencjalnie zwiększając ryzyko rozwoju zaburzeń psychicznych. Omówiono nowe podejścia terapeutyczne ukierunkowane na KP. Co więcej, wykazano, że terapia elektrokonwulsyjna, ketamina, ćwiczenia fizyczne i niektóre niesteroidowe leki przeciwzapalne zmieniają metabolizm kynureniny, co stwarza możliwość, że metabolity kynureniny mogą być użyteczne jako biomarkery odpowiedzi na leczenie lub monitorowania terapii.

@@ -6,15 +6,15 @@ categories: [choroby]
 tags: [czerwone mięso, nowotwór, sialic acid, przeciwciała]
 author:
   name: "Salam Bashir1† , Leopold K. Fezeu2† , Shani Leviatan Ben-Arye1 , Sharon Yehuda1 , Eliran Moshe Reuven1 , Fabien Szabo de Edelenyi2 , Imen Fellah-Hebia3 , Thierry Le Tourneau4 , Berthe Marie Imbert-Marcille5 , Emmanuel B. Drouet6 , Mathilde Touvier2 , Jean-Christian Roussel3 , Hai Yu7 , Xi Chen7 , Serge Hercberg2 , Emanuele Cozzi8 , Jean-Paul Soulillou9 , Pilar Galan2 and Vered Padler-Karavani "
-  link: 
+  link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01721-8
 ---
 
 > Komentarz:
 > Autorzy znaleźli związek spożycia z ilości w surowicy oraz przeciwciałami. Przyjęli powszechnie przyjęte założenie i udowodniaja jedno drugim.
-> Zmniejszamy ryzyko choś nie wykazaliśmy związku przyczynowego a jedynie przytoczyliśmuy model zwierzęcy na znokautowanych myszach. 
+> Zmniejszamy ryzyko choć nie wykazaliśmy związku przyczynowego a jedynie przytoczyliśmy model zwierzęcy na znokautowanych myszach. 
 <hr>
 
-[Skrót do pracy]() 
+[Skrót do pracy](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01721-8)
 
 ### Abstract
 Background

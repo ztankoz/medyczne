@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Safety, health improvement and well-being during a 4 to 21-day fasting period in an observational study including 1422 subjects"
+date: 2021-11-16 23:41:38 +0200
+categories: [dieta, głodówka]
+tags: [głodówka]
+author:
+  name: "Françoise Wilhelmi de Toledo  ,Franziska Grundler ,Audrey Bergouignan,Stefan Drinda,Andreas Michalsen"
+  link: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0209353
+---
+> Komentarz: 
+> 
+<hr>
+<br>
+[Skrót do pracy](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0209353)
+
+Only few studies document longer periods of fasting in large cohorts including non-obese participants. The aim of this study was to document prospectively the safety and any changes in basic health and well-being indicators during Buchinger periodic fasting within a specialised clinic. In a one-year observational study 1422 subjects participated in a fasting program consisting of fasting periods of between 4 and 21 days. Subjects were grouped in fasting period lengths of 5, 10, 15 and 20±2 days. The participants fasted according to the Buchinger guidelines with a daily caloric intake of 200–250 kcal accompanied by a moderate-intensity lifestyle program. Clinical parameters as well as adverse effects and well-being were documented daily. Blood examinations before and at the end of the fasting period complemented the pre-post analysis using mixed-effects linear models. Significant reductions in weight, abdominal circumference and blood pressure were observed in the whole group (each p<0.001). A beneficial modulating effect of fasting on blood lipids, glucoregulation and further general health-related blood parameters was shown. In all groups, fasting led to a decrease in blood glucose levels to low norm range and to an increase in ketone bodies levels (each p<0.001), documenting the metabolic switch. An increase in physical and emotional well-being (each p<0.001) and an absence of hunger feeling in 93.2% of the subjects supported the feasibility of prolonged fasting. Among the 404 subjects with pre-existing health-complaints, 341 (84.4%) reported an improvement. Adverse effects were reported in less than 1% of the participants. The results from 1422 subjects showed for the first time that Buchinger periodic fasting lasting from 4 to 21 days is safe and well tolerated. It led to enhancement of emotional and physical well-being and improvements in relevant cardiovascular and general risk factors, as well as subjective health complaints.
+
+
+Tłunaczenie automatyczne:
+Tylko nieliczne badania dokumentują dłuższe okresy postu w dużych kohortach obejmujących osoby bez otyłości. Celem pracy było prospektywne udokumentowanie bezpieczeństwa i zmian w podstawowych wskaźnikach zdrowia i samopoczucia podczas okresowego postu Buchingera w specjalistycznej klinice. W jednorocznym badaniu obserwacyjnym 1422 osoby uczestniczyły w programie postu składającym się z okresów postu trwających od 4 do 21 dni. Badani byli pogrupowani w okresy postu o długości 5, 10, 15 i 20±2 dni. Uczestnicy pościli zgodnie z wytycznymi Buchingera, przy dziennym spożyciu kalorii 200-250 kcal i umiarkowanie intensywnym trybie życia. Codziennie dokumentowano parametry kliniczne, objawy niepożądane oraz samopoczucie. Badania krwi przed i na koniec okresu postu uzupełniły analizę pre-post z wykorzystaniem modeli liniowych z efektami mieszanymi. W całej grupie zaobserwowano znaczącą redukcję masy ciała, obwodu brzucha i ciśnienia tętniczego (każde p<0,001). Wykazano korzystny modulujący wpływ postu na lipidy krwi, glukoregulację i inne parametry krwi związane z ogólnym stanem zdrowia. We wszystkich grupach, post doprowadził do obniżenia poziomu glukozy we krwi do niskiego zakresu normy i do wzrostu poziomu ciał ketonowych (każde p<0,001), dokumentując przemianę metaboliczną. Wzrost fizycznego i emocjonalnego samopoczucia (każde p<0,001) oraz brak uczucia głodu u 93,2 badanych, wspierały wykonalność przedłużonego postu. Wśród 404 osób z istniejącymi wcześniej dolegliwościami zdrowotnymi, 341 (84,4%) odnotowało poprawę. Niekorzystne efekty odnotowano u mniej niż 1% uczestników. Wyniki uzyskane u 1422 osób po raz pierwszy wykazały, że okresowy post Buchingera trwający od 4 do 21 dni jest bezpieczny i dobrze tolerowany. Prowadził do poprawy emocjonalnego i fizycznego dobrostanu oraz poprawy istotnych czynników ryzyka sercowo-naczyniowego i ogólnego, a także subiektywnych dolegliwości zdrowotnych.
+
