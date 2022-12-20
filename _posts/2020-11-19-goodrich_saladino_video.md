@@ -3,7 +3,7 @@ layout: post
 title: "How Seed Oils Destroy Your Mitochondria and Lead To Chronic Disease, with Tucker Goodrich"
 date: 2020-11-19 22:41:38 +0200
 categories: [metabolizm]
-tags: [insulinooporność, insulinowrażliwość, cukier, tłuszcz, matabolizm, ros, wideo, LA, kwas linolenowy]
+tags: [insulinooporność, insulinowrażliwość, cukier, tłuszcz, matabolizm, ros, wideo, la, kwas linolenowy]
 author:
   name: "Interlokutorzy: Tucker Goodrich i Paul Saladino"
   link: https://youtu.be/DyVwn0kRGJs

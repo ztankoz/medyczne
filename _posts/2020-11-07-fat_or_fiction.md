@@ -3,7 +3,7 @@ layout: post
 title: "Fat or fiction: the diet-heart hypothesis"
 date: 2020-11-07 20:54
 categories: [dieta]
-tags: [dieta, tłuszcz, LA, PUFA, zalecenia dietetyczne]
+tags: [dieta, tłuszcz, la, pufa, zalecenia dietetyczne]
 author:
   name: "Robert DuBroff  1 , Michel de Lorgeril  2 "
   link: https://ebm.bmj.com/content/early/2019/07/10/bmjebm-2019-111180

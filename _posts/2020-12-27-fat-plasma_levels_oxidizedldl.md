@@ -3,7 +3,7 @@ layout: post
 title: "Changes in dietary fat intake alter plasma levels of oxidized low-density lipoprotein and lipoprotein(a)"
 date: 2020-12-27 22:46:38 +0200
 categories: [metabolizm]
-tags: [dieta, matabolizm, choroba, tłuszcz, LDL]
+tags: [dieta, matabolizm, choroba, tłuszcz, ldl]
 author:
   name: "Marja-Leena Silaste  1 , Maire Rantala, Georg Alfthan, Antti Aro, Joseph L Witztum, Y Antero Kesäniemi, Sohvi Hörkkö"
   link: https://pubmed.ncbi.nlm.nih.gov/14739118

@@ -3,7 +3,7 @@ layout: post
 title: "Curing the pandemic of misinformation on COVID-19 mRNA vaccines through real evidence-based medicine - Part 2"
 date: 2022-12-14 13:18
 categories: [medycyna]
-tags: [COVID, szczepienia, mRNA, przemysł farmaceutyczny, świadoma zgoda poinformowanego pacjenta, zatrzymanie akcji serca]
+tags: [covid, szczepienia, mRNA, przemysł farmaceutyczny, świadoma zgoda poinformowanego pacjenta, zatrzymanie akcji serca]
 author:
   name: "Aseem Malhotra"
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9557939/

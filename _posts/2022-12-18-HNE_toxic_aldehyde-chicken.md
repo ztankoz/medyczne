@@ -4,7 +4,7 @@ title: "4-Hydroxynonenal (HNE), a Toxic Aldehyde in Fried Chicken from Fast Food
 a Grocery Store"
 date: 2022-12-18 22:59
 categories: [dieta]
-tags: [fast food, kurczak, oksydacja lipidów, HNE, 4-Hydroxynoninal, aldehyd, tłuszcze]
+tags: [fast food, kurczak, oksydacja lipidów, hne, 4-hydroxynoninal, aldehyd, tłuszcze]
 author:
   name: "Ning Yin, Don W. Shoeman, Katherine A. Klammer, A. Saari Csallany*"
   link: https://www.scirp.org/journal/paperinformation.aspx?paperid=98190

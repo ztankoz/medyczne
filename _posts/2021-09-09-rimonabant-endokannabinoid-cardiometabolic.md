@@ -3,7 +3,7 @@ layout: post
 title: " Potential role of the endocannabinoid receptor antagonist rimonabant in the management of cardiometabolic risk: a  narrative review of available data "
 date: 2021-09-09 20:56:38 +0200
 categories: [dieta]
-tags: [dieta, tłuszcz, LA, rimonabant, kwas linolenowy]
+tags: [dieta, tłuszcz, la, rimonabant, kwas linolenowy]
 author:
   name: " Kirk A Bronander Michael J Bloch "
   link: https://www.researchgate.net/publication/6256004_Potential_role_of_the_endocannabinoid_receptor_antagonist_rimonabant_in_the_management_of_cardiometabolic_risk_A_narrative_review_of_available_data/link/5512fa8f0cf2eda0df2d7d0c/download

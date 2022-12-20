@@ -3,7 +3,7 @@ layout: post
 title: "Use of dietary linoleic acid for secondary prevention of coronary heart disease and death: evaluation of recovered data from the Sydney Diet Heart Study and updated meta-analysis "
 date: 2022-12-14 22:11
 categories: [dieta]
-tags: [śmiertelność, tłuszcz, choroba niedokrwienna serca, miażdżyca, LA, kwas linolenowy, diet-heart hypothesis]
+tags: [śmiertelność, tłuszcz, choroba niedokrwienna serca, miażdżyca, la, kwas linolenowy, diet-heart hypothesis]
 author:
   name: "Christopher E Ramsden 1 , Daisy Zamora, Boonseng Leelarthaepin, Sharon F Majchrzak-Hong, Keturah R Faurot, Chirayath M Suchindran, Amit Ringel, John M Davis, Joseph R Hibbeln "
   link: https://pubmed.ncbi.nlm.nih.gov/23386268/

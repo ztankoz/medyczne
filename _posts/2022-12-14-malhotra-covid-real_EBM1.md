@@ -3,7 +3,7 @@ layout: post
 title: "Curing the pandemic of misinformation on COVID-19 mRNA vaccines through real evidence-based medicine - Part 1"
 date: 2022-12-14 13:17
 categories: [medycyna]
-tags: [COVID, szczepienia, mRNA, przemysł farmaceutyczny, świadoma zgoda poinformowanego pacjenta]
+tags: [covid, szczepienia, mRNA, przemysł farmaceutyczny, świadoma zgoda poinformowanego pacjenta]
 author:
   name: "Aseem Malhotra"
   link: https://insulinresistance.org/index.php/jir/article/view/71

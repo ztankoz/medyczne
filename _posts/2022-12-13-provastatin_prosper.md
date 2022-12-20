@@ -3,7 +3,7 @@ layout: post
 title: " Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial"
 date: 2022-12-13 23:01
 categories: [choroby]
-tags: [statyny, HDL, LDL, miażdżyca]
+tags: [statyny, hdl, ldl, miażdżyca]
 author:
   name: "James Shepherd, Gerard J Blauw, Michael B Murphy, Edward L E M Bollen, Brendan M Buckley, Stuart M Cobbe, Ian Ford, Allan Gaw, Michael Hyland, J Wouter Jukema, Adriaan M Kamper, Peter W Macfarlane, A Edo Meinders, John Norrie, Chris J Packard, Ivan J Perry, David J Stott, Brian J Sweeney, Cillian Twomey, Rudi G J Westendorp, on behalf of the PROSPER study group*"
   link: https://pubmed.ncbi.nlm.nih.gov/12457784/

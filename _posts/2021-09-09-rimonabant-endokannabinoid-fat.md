@@ -3,7 +3,7 @@ layout: post
 title: " Endocannabinoid signal in the gut controls dietary fat intake "
 date: 2021-09-09 22:56:38 +0200
 categories: [dieta]
-tags: [dieta, tłuszcz, LA, rimonabant, kwas linolenowy]
+tags: [dieta, tłuszcz, la, rimonabant, kwas linolenowy]
 author:
   name: " Nicholas V DiPatrizio  1 , Giuseppe Astarita, Gary Schwartz, Xiaosong Li, Daniele Piomelli "
   link: https://pubmed.ncbi.nlm.nih.gov/21730161

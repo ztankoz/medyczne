@@ -3,7 +3,7 @@ layout: post
 title: " Big pharma often commits corporate crime, and this must be stopped"
 date: 2022-12-14 13:36
 categories: [medycyna]
-tags: [przemysł farmaceutyczny, EBM]
+tags: [przemysł farmaceutyczny, ebm]
 author:
   name: "Peter C Gøtzsche, professor, Nordic Cochrane Centre, Rigshospitalet, Blegdamsvej 9, DK-2100 Copenhagen, Denmark"
   link: https://doi.org/10.1136/bmj.e8462

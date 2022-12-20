@@ -3,7 +3,7 @@ layout: post
 title: "Influence of low high-density lipoprotein cholesterol and elevated triglyceride on coronary heart disease events and response to simvastatin therapy in 4S "
 date: 2022-12-13 23:07
 categories: [choroby]
-tags: [statyny, trójglicerydy, HDL, LDL, cholesterol]
+tags: [statyny, trójglicerydy, hdl, ldl, cholesterol]
 author:
   name: "Christie M. Ballantyne, MD; Anders G. Olsson, MD; Thomas J. Cook, MS; Michele F. Mercuri, MD; Terje R. Pedersen, MD; John Kjekshus, MD; for the Scandinavian Simvastatin Survival Study (4S) Group"
   link: https://pubmed.ncbi.nlm.nih.gov/11748098/

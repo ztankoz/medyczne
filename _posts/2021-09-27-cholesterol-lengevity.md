@@ -3,7 +3,7 @@ layout: post
 title: "The LDL Paradox: Higher LDL-Cholesterol is Associated with Greater Longevity"
 date: 2021-09-27 18:56:38 +0200
 categories: [dieta]
-tags: [LDL, długowieczność, cholesterol]
+tags: [ldl, długowieczność, cholesterol]
 author:
   name: " Ravnskov U1*; de Lorgeril M2; Diamond DM3; Hama R4; Hamazaki T5; Hammarskjöld B6; Harcombe Z7; Kendrick M8; Langsjoen P9; McCully KS10; Sultan S11; Sundberg R "
   link: https://meddocsonline.org/annals-of-epidemiology-and-public-health/the-LDL-paradox-higher-LDL-cholesterol-is-associated-with-greater-longevity.pdf

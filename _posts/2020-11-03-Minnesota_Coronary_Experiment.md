@@ -3,7 +3,7 @@ layout: post
 title: "Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)"
 date: 2022-12-14 22:06
 categories: [dieta]
-tags: [LA, śmiertelność, tłuszcz, choroba niedokrwienna serca, kwas linolenowy, diet-heart hypothesis]
+tags: [la, śmiertelność, tłuszcz, choroba niedokrwienna serca, kwas linolenowy, diet-heart hypothesis]
 author:
   name: "Christopher E Ramsden 1 , Daisy Zamora 2 , Sharon Majchrzak-Hong 3 , Keturah R Faurot 4 , Steven K Broste 5 , Robert P Frantz 6 , John M Davis 7 , Amit Ringel 3 , Chirayath M Suchindran 8 , Joseph R Hibbeln 3 "
   link: https://pubmed.ncbi.nlm.nih.gov/27071971/

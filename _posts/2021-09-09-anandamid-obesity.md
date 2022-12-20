@@ -3,7 +3,7 @@ layout: post
 title: " Dietary linoleic acid elevates endogenous 2-AG and anandamide and induces obesity "
 date: 2021-09-09 21:56:38 +0200
 categories: [dieta]
-tags: [dieta, tłuszcz, LA, 2-AG, anandamide, kwas linolenowy]
+tags: [dieta, tłuszcz, la, 2-AG, anandamide, kwas linolenowy]
 author:
   name: " Anita R Alvheim  1 , Marian K Malde, Douglas Osei-Hyiaman, Yu Hong Lin, Robert J Pawlosky, Lise Madsen, Karsten Kristiansen, Livar Frøyland, Joseph R Hibbeln "
   link: https://pubmed.ncbi.nlm.nih.gov/22334255

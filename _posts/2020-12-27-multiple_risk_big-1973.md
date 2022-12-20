@@ -3,7 +3,7 @@ layout: post
 title: "  Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group "
 date: 2020-12-27 23:46:38 +0200
 categories: [choroby ]
-tags: [dieta, matabolizm, choroba, tłuszcz, LDL ]
+tags: [dieta, matabolizm, choroba, tłuszcz, ldl ]
 author:
   name: "Nie są podawani autorzy(?) "
   link: https://pubmed.ncbi.nlm.nih.gov/7050440

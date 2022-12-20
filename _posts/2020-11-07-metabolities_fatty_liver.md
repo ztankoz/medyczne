@@ -2,7 +2,7 @@
 layout: post
 title: "Metabolites of arachidonic acid and linoleic acid in early stages of non-alcoholic fatty liver disease--A pilot study"
 date: 2020-11-07 21:00
-categories: []
+categories: [choroby, niealkoholowe stłuszczenie wątroby]
 tags: [dieta, metabolizm, choroby]
 author:
   name: "Dominika Maciejewska  1 , Piotr Ossowski  1 , Arleta Drozd  1 , Karina Ryterska  1 , Dominika Jamioł-Milc  1 , Marcin Banaszczak  1 , Małgorzata Kaczorowska  1 , Anna Sabinicz  1 , Joanna Raszeja-Wyszomirska  2 , Ewa Stachowska  3"

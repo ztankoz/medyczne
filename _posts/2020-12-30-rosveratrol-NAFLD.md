@@ -3,7 +3,7 @@ layout: post
 title: "Placebo-controlled, randomised clinical trial: high-dose resveratrol treatment for non-alcoholic fatty liver disease"
 date: 2020-12-30 19:46:38 +0200
 categories: [ ]
-tags: [dieta, matabolizm, rosweratrol, NAFLD, niealkoholowe stłuszczenie wątroby]
+tags: [dieta, matabolizm, rosweratrol, nafld, niealkoholowe stłuszczenie wątroby]
 author:
   name: " Sara Heebøll  1   2 , Martin Kreuzfeldt  1 , Stephen Hamilton-Dutoit  3 , Marianne Kjær Poulsen  4 , Hans Stødkilde-Jørgensen  5 , Holger Jon Møller  2 , Niels Jessen  6   7 , Kasper Thorsen  7 , Ylva Kristina Hellberg  8 , Steen Bønløkke Pedersen  5 , Henning Grønbæk  1"
   link: https://pubmed.ncbi.nlm.nih.gov/26784973
