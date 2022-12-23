@@ -52,6 +52,7 @@ Before running for the first time, go to the root directory of your site, and in
 $ bundle
 ```
 
+
 ### Step 3. Running Local Server
 
 Run the following command in the root directory of the site:
