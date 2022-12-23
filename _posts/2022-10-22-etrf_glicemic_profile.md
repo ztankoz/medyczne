@@ -2,7 +2,7 @@
 layout: post
 title: "The Effect of Early Time-Restricted Feeding on Glycemic Profile in Adults: A Systematic Review of Interventional Studies"
 date: 2022-10-22 11:41:38 +0200
-categories: [diera, post przerywany]
+categories: [dieta, post przerywany]
 tags: [metabolizm, profil glikemicznym dieta, głodówka, post przerywany]
 author:
   name: "Demetrios Bitsanis, Konstantinos Giannakou, Elena Hadjimbei, Stavri Chrysostomou"
