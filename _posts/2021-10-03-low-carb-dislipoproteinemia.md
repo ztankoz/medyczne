@@ -2,8 +2,8 @@
 layout: post
 title: "Effects of a low-carbohydrate diet on insulin-resistant dyslipoproteinemia-a randomized controlled feeding trial"
 date: 2021-10-03 13:41:38 +0200
-categories: [dieta]
-tags: [insulinooporność, cukier, tłuszcz, kwasy nasycone, kwasy nienasycone, niskowęglowodanowa]
+categories: [dieta, niskowęglowodanowa]
+tags: [insulinooporność, cukier, tłuszcz, kwasy nasycone, kwasy nienasycone, dieta niskowęglowodanowa]
 author:
   name: "Cara B Ebbeling  1   2 , Amy Knapp  3 , Ann Johnson , Julia M W Wong  1   2 , Kimberly F Greco  5 , Clement Ma  2   6 , Samia Mora  2   7 , David S Ludwig  1   2" 
   link: https://pubmed.ncbi.nlm.nih.gov/34582545/

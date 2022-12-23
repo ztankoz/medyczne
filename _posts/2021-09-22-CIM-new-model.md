@@ -3,7 +3,7 @@ layout: post
 title: "The carbohydrate-insulin model: a physiological perspective on the obesity pandemic "
 date: 2021-09-22 21:56:38 +0200
 categories: [metabolizm, otyłość]
-tags: [dieta, insulina, insulinooporność, cukry]
+tags: [dieta, insulina, insulinooporność, cukier]
 author:
   name: "David S Ludwig, Louis J Aronne, Arne Astrup, Rafael de Cabo, Lewis C Cantley, Mark I Friedman, Steven B Heymsfield, James D Johnson, Janet C King, Ronald M Krauss"
   link: https://academic.oup.com/ajcn/advance-article/doi/10.1093/ajcn/nqab270/6369073

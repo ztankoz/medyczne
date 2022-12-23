@@ -3,10 +3,10 @@ layout: post
 title: "Food sources of fructose-containing sugars and glycaemic control: systematic review and meta-analysis of controlled intervention studies "
 date: 2022-12-16 19:59
 categories: [dieta]
-tags: [fruktoza, glukoza, węglwodany, HbA1c ]
+tags: [fruktoza, glukoza, węglowodany, HbA1c ]
 author:
   name: "Vivian L Choo,1,2,3 Effie Viguiliouk,1,2 Sonia Blanco Mejia,1,2 Adrian I Cozma,1,2,4 Tauseef A Khan,1,2 Vanessa Ha,1,5,6 Thomas M S Wolever,1,2,7,8 Lawrence A Leiter,1,2,7,8 Vladimir Vuksan,1,2,7,8 Cyril W C Kendall,1,2,9 Russell J de Souza,1,2,6 David J A Jenkins,1,2,7,8 John L Sievenpiper1,2,7,8 "
-  link: 
+  link: https://pubmed.ncbi.nlm.nih.gov/30463844
 ---
 
 > Komentarz:

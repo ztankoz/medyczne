@@ -2,7 +2,7 @@
 layout: post
 title: "No Increase in Colon Cancer Risk Following Induction with Neu5Gc-Bearing Rabbit Anti-T Cell IgG (ATG) in Recipients of Kidney Transplants "
 date: 2022-12-17 22:06
-categories: [dietetyka, nowotwory]
+categories: [dieta, nowotwory]
 tags: [anti-Neu5Gc, rak okrężnicy, mięso czerwone]
 author:
   name: "Jean-Paul Soulillou 1,2, Caner Süsal 3 , Bernd Döhler 3,* and Gerhard Opelz"

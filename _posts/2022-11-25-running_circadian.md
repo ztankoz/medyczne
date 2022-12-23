@@ -3,7 +3,7 @@ layout: post
 title: "Daily running enhances molecular and physiological circadian rhythms in skeletal muscle"
 date: 2022-11-25 19:11:38 +0200
 categories: [rytmy]
-tags: [aktywność, glikogen, mięśnie]
+tags: [aktywność fizyczna, glikogen, mięśnie]
 author:
   name: "Nuria Casanova-Vallve 1, Drew Duglan 1, Megan E Vaughan 1, Marie Pariollaud 1, Michal K Handzlik 2, Weiwei Fan 3, Ruth T Yu 3, Christopher Liddle 4, Michael Downes 3, Julien Delezie 1, Rebecca Mello 1, Alanna B Chan 1, Pål O Westermark 5, Christian M Metallo 2, Ronald M Evans 3, Katja A Lamia "
   link: https://pubmed.ncbi.nlm.nih.gov/35470095/

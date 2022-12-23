@@ -3,7 +3,7 @@ layout: post
 title: "Time for Exercise? Exercise and Its Influence on the Skeletal Muscle Clock"
 date: 2022-11-25 20:41:38 +0200
 categories: [rytmy]
-tags:   [aktywność, cukrzyca, mięśnie szkieletowe, centralny zegar biologiczny, obwodowy zegar biologiczny]
+tags:   [aktywność fizyczna, cukrzyca, mięśnie szkieletowe, centralny zegar biologiczny, obwodowy zegar biologiczny]
 author:
   name: "Ryan A Martin 1 2, Karyn A Esser 1 2"
   link: https://pubmed.ncbi.nlm.nih.gov/36129164/

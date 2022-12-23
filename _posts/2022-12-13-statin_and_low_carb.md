@@ -3,7 +3,7 @@ layout: post
 title: " Statin therapy is not warranted for a person with high LDL-cholesterol on a low-carbohydrate diet "
 date: 2022-12-13 23:13
 categories: [dieta]
-tags: [ldl, statyny, keto, choroba niedokrwienna serca, miażdżyca]
+tags: [ldl, statyny, ketoza, choroba niedokrwienna serca, miażdżyca]
 author:
   name: "Diamond, David M.a; Bikman, Benjamin T.b; Mason, Paulc "
   link: https://pubmed.ncbi.nlm.nih.gov/35938780/

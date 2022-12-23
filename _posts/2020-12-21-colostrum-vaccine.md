@@ -2,8 +2,8 @@
 layout: post
 title: "Prevention of Influenza Episodes With Colostrum Compared With Vaccination in Healthy andHigh-Risk Cardiovascular Subjects: The EpidemiologicStudy in San Valentino"
 date: 2020-12-21 12:41:38 +0200
-categories: [metabolizm, odporność ]
-tags: [immunologia, siara, szczepienia, szczepionka, odporność ]
+categories: [metabolizm, immunologia]
+tags: [immunologia, siara, szczepienia, szczepionka, odporność]
 author:
   name: "Maria Rosaria Cesarone, MD, Gianni Belcaro, MD, PhD, Andrea Di Renzo, BA,Mark Dugall, PhD, Marisa Cacchio, MD, Irma Ruffini, MD, Luciano Pellegrini, MD,Gilberto Del Boccio, MD, Filiberto Fano, BA, Andrea Ledda, MD, Angelica Bottari, MD,Andrea Ricci, MD, Stefano Stuard, MD, and Giulia Vinciguerra, PhD "
   link: https://journals.sagepub.com/doi/pdf/10.1177/1076029606295957
