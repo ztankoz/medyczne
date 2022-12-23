@@ -3,7 +3,7 @@ layout: post
 title: " Conjugated Linoleic Acid Effects on Cancer, Obesity, and Atherosclerosis: A Review of Pre-Clinical and Human Trials with Current Perspectives "
 date: 2020-12-25 20:46:38 +0200
 categories: [dieta]
-tags: [matabolizm, dieta, la, cla, nowotwór ]
+tags: [metabolizm, dieta, la, cla, nowotwór ]
 author:
   name: "Laura J den Hartigh "
   link: https://pubmed.ncbi.nlm.nih.gov/30754681/

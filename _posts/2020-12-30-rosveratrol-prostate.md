@@ -3,7 +3,7 @@ layout: post
 title: "Resveratrol reduces the levels of circulating androgen precursors but has no effect on, testosterone, dihydrotestosterone, PSA levels or prostate volume. A 4-month randomised trial in middle-aged men "
 date: 2020-12-30 19:56:38 +0200
 categories: [choroby]
-tags: [matabolizm, rosweratrol, psa, prostata, testosteron, dhea, testosteron, dieta niskoewęglowodanowa]
+tags: [metabolizm, rosweratrol, psa, prostata, testosteron, dhea, testosteron, dieta niskoewęglowodanowa]
 author:
   name: "Thomas Nordstrøm Kjaer  1   2 , Marie Juul Ornstrup  1   2 , Morten Møller Poulsen  1   2 , Jens Otto Lunde Jørgensen  1   2 , David Michael Hougaard  3 , Arieh Sierra Cohen  3 , Shadman Neghabat  4 , Bjørn Richelsen  1   2 , Steen Bønløkke Pedersen  1   2 "
   link: https://pubmed.ncbi.nlm.nih.gov/25939591/

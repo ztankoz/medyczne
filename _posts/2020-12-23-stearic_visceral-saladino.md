@@ -3,7 +3,7 @@ layout: post
 title: " Dietary stearic acid leads to a reduction of visceral adipose tissue in athymic nude mice  "
 date: 2020-12-23 20:46:38 +0200
 categories: [dieta]
-tags: [matabolizm, dieta, pufa, tłuszcz, otyłość]
+tags: [metabolizm, dieta, pufa, tłuszcz, otyłość]
 author:
   name: "Ming-Che Shen  1 , Xiangmin Zhao  1 , Gene P Siegal  2 , Renee Desmond  3 , Robert W Hardy  4 "
   link: https://pubmed.ncbi.nlm.nih.gov/25222131/

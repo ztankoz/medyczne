@@ -3,7 +3,7 @@ layout: post
 title: "Cancer incidence in vegetarians: results from the European Prospective Investigation into Cancer and Nutrition (EPIC-Oxford) "
 date: 2020-12-28 22:49:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, wegetarianizm, dieta roślinna]
+tags: [dieta, metabolizm, wegetarianizm, dieta roślinna]
 author:
   name: "Timothy J Key  1 , Paul N Appleby, Elizabeth A Spencer, Ruth C Travis, Andrew W Roddam, Naomi E Allen"
   link: https://pubmed.ncbi.nlm.nih.gov/19279082

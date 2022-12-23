@@ -3,7 +3,7 @@ layout: post
 title: "Nutrition for the Japanese elderly "
 date: 2020-12-28 22:46:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, mięso, Okinawa, długowieczność]
+tags: [dieta, metabolizm, mięso, Okinawa, długowieczność]
 author:
   name: "H Shibata  1 , H Nagai, H Haga, S Yasumura, T Suzuki, Y Suyama "
   link: https://pubmed.ncbi.nlm.nih.gov/1407826

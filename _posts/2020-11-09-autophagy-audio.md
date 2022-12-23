@@ -3,7 +3,7 @@ layout: post
 title: "Nobel Prize Explainer: Autophagy"
 date: 2020-11-09 9:40:38 +0200
 categories: [metabolizm]
-tags: [matabolizm, głodówka, głód, autofagia]
+tags: [metabolizm, głodówka, głód, autofagia]
 author:
   name: " Kaitlyn Oliphant & Emma Allen-Vercoe"
   link: https://www.scientificamerican.com/podcast/episode/nobel-prize-explainer-autophagy/

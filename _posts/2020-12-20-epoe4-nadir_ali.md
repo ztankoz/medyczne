@@ -3,7 +3,7 @@ layout: post
 title: "Insulin resistance and ApoE4 - A Perfect Storm"
 date: 2020-12-20 20:41:38 +0200
 categories: [metabolizm]
-tags: [insulinooporność, matabolizm, GLUT4, ApoE4 ]
+tags: [insulinooporność, metabolizm, GLUT4, ApoE4 ]
 author:
   name: "Dr. Nadir Ali "
   link: https://youtu.be/A78RxVZnXgI

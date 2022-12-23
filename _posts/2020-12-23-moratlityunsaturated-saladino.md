@@ -3,7 +3,7 @@ layout: post
 title: "Mortality From Coronavirus Disease 2019 Increases With Unsaturated Fat and May Be Reduced by Early Calcium and Albumin Supplementation"
 date: 2020-12-23 21:46:38 +0200
 categories: [metabolizm]
-tags: [matabolizm, dieta, wirus, covid, pufa, lipotoksyczność]
+tags: [metabolizm, dieta, wirus, covid, pufa, lipotoksyczność]
 author:
   name: "Bara El-Kurdi,1,*Biswajit Khatua,2,*Christopher Rood,3Christine Snozek 4"
   link: https://www.gastrojournal.org/action/showPdf?pii=S0016-5085%2820%2934727-2

@@ -3,7 +3,7 @@ layout: post
 title: " Why chicken is killing you, and saturated fat is a health food, with Nina Teicholz  "
 date: 2020-12-25 22:46:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, choroba]
+tags: [dieta, metabolizm, choroba]
 author:
   name: "Paul Saladino "
   link: https://youtu.be/HPlUot3WLko

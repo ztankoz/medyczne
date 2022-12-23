@@ -3,7 +3,7 @@ layout: post
 title: "Is it saturated fat or polyunsaturated fat that’s killing you? Peter Dobromylskyj from Hyperlipid"
 date: 2020-10-29 22:41:38 +0200
 category: [metabolizm]
-Tags: [insulinooporność, insulinowrażliwość, cukier, tłuszcz, matabolizm, ros, wideo]
+Tags: [insulinooporność, insulinowrażliwość, cukier, tłuszcz, metabolizm, ros, wideo]
 author: 
   name: "Interlokutorzy: Peter Dobromylskyj i Paul Saladino"
   link: 
@@ -19,7 +19,7 @@ author:
 2. Otyli spożywając PUFA gromadzą je w tkance tłuszczowej a gdy dochodzi do lipolizy to uwalniaja głównie kwasy nasycone. Dopiero długotrwała głodówka powoduje uwolnienie PUFA. Ludzie nie produkuja PUFA!!! Są nam potrzebne w niewielkiej ilości jako substancje sygnałowe, mogły pełnic ważna rolę w gromadzeniu tłusczu przed zimą gdy produkty je zawierające były w obfitości.
 3. Wspomnienie eksperymentu w którym przeszczepiano guzy nowotworowe zwierzętom a następnie głodzono. W tym procesie komórki tłuszczowe uwalaniał zgoromadzone PUFA a tych powstawały substancje tropowe dla nowotworów przez co guzy przyśpieszały wzrost.
 4. najwięcej dostępnej ryboflawiny (wit.B2) jest w produktach mięsnych (np. wątroba). Ryboflawina jest konieczna do działania kompleksu II.
-5. koenzymQ - wąskie gardło procesu matabolizmu mitochondrialnego jest w największej ilości w sercu np. wołowym
+5. koenzymQ - wąskie gardło procesu metabolizmu mitochondrialnego jest w największej ilości w sercu np. wołowym
 6. statyny powoduja inhibicje produkcji koenzymuQ (do sprawdzenia) - dlatego część kardiologów zaleca ze statynami CoQ
 7. *zalewanie* naszego organizmu antyoksydantami jest niezbyt rozumną forma ingerowania w bardzo złożone układy samoregulujące, w których ROS maja bardzo ważna rolę."
 

@@ -3,7 +3,7 @@ layout: post
 title: "Glycolysis, tumor metabolism, cancer growth and dissemination. A new pH-based etiopathogenic perspective and therapeutic approach to an old cancer question"
 date: 2020-11-08 21:04
 categories: [dieta]
-tags: [matabolizm, rak, nowotwór, ketoza]
+tags: [metabolizm, rak, nowotwór, ketoza]
 author:
   name: "Khalid O. Alfarouk,1 Daniel Verduzco,2 Cyril Rauch,3 Abdel Khalig Muddathir,1 H. H Bashir Adil,1 Gamal O. Elhassan,4,5 Muntaser E. Ibrahim,1 Julian David Polo Orozco,6 Rosa Angela Cardone,7 Stephan J. Reshkin,7 and Salvador Harguindey6"
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303887

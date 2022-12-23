@@ -3,7 +3,7 @@ layout: post
 title: "What is the role of meat in a healthy diet?"
 date: 2020-12-28 20:46:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, mięso, zalecenia dietetyczne]
+tags: [dieta, metabolizm, mięso, zalecenia dietetyczne]
 author:
   name: "David M Klurfeld"
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015455/

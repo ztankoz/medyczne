@@ -3,7 +3,7 @@ layout: post
 title: " Marked improvement in carbohydrate and lipid metabolism in diabetic Australian aborigines after temporary reversion to traditional lifestyle "
 date: 2020-11-29 23:41:38 +0200
 categories: [dieta]
-tags: [cukrzyca, tłuszcz, matabolizm ]
+tags: [cukrzyca, tłuszcz, metabolizm ]
 author:
   name: "K O'Dea "
   link: https://pubmed.ncbi.nlm.nih.gov/6373464

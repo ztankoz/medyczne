@@ -3,7 +3,7 @@ layout: post
 title: "Brief episode of STZ-induced hyperglycemia produces cardiac abnormalities in rats fed a diet rich in n-6 PUFA"
 date: 2020-11-20 23:41:38 +0200
 categories: [metabolizm]
-tags: [cukrzyca, tłuszcz, matabolizm, ros, la, kwas linolenowy, mitochondra, kardiomiopatia, nekroza, apoptoza ]
+tags: [cukrzyca, tłuszcz, metabolizm, ros, la, kwas linolenowy, mitochondria, kardiomiopatia, nekroza, apoptoza ]
 author:
   name: "Sanjoy Ghosh, Dake Qi, Ding An, Thomas Pulinilkunnil, Ashraf Abrahani, Kuo-Hsing Kuo, Richard B. Wambolt, Michael Allard, Sheila M. Innis, and Brian Rodrigues "
   link: https://journals.physiology.org/doi/full/10.1152/ajpheart.00480.2004

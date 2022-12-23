@@ -3,7 +3,7 @@ layout: post
 title: " Intrahepatic fat, not visceral fat, is linked with metabolic complications of obesity "
 date: 2020-11-09 10:40:38 +0200
 categories: [metabolizm]
-tags: [matabolizm, tłuszcz, cukier, insulinooporność]
+tags: [metabolizm, tłuszcz, cukier, insulinooporność]
 author:
   name: "Elisa Fabbrini  1 , Faidon Magkos, B Selma Mohammed, Terri Pietka, Nada A Abumrad, Bruce W Patterson, Adewole Okunade, Samuel Klein"
   link: https://pubmed.ncbi.nlm.nih.gov/19706383/

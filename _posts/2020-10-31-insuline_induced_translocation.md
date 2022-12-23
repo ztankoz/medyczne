@@ -2,7 +2,7 @@
 layout: post
 title: "Insulin-induced translocation of CD36 to the plasma membrane is reversible and shows similarity to that of GLUT4"
 date: 2020-10-30 22:41:38 +0200
-Tags: [insulinooporność, insulinowrażliwość, matabolizm, CD35, GLUT4, insulina, glukoza, glikogen, kwasy tłuszczowe]
+Tags: [insulinooporność, insulinowrażliwość, metabolizm, CD35, GLUT4, insulina, glukoza, glikogen, kwasy tłuszczowe]
 categories: [metabolizm]
 author: 
   name: "Masja M.van OortaJan M.van DoornaArendBonenbJan F.C.GlatzcDick J.van der HorstaKees W.RodenburgaJoost J.F.P.Luikenac"

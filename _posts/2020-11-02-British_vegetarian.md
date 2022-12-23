@@ -3,7 +3,7 @@ layout: post
 title: "Mortality in British vegetarians "
 date: 2022-12-14 21:49
 categories: [dieta]
-tags: [dieta, śmiertelność, wegatarianizm, epidemiologia]
+tags: [dieta, śmiertelność, wegetarianizm, epidemiologia]
 author:
   name: "Paul N Appleby 1 , Timothy J Key, Margaret Thorogood, Michael L Burr, Jim Mann"
   link: https://pubmed.ncbi.nlm.nih.gov/12001975/

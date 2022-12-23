@@ -3,7 +3,7 @@ layout: post
 title: "Dr. Benjamin Bikman - 'Insulin at the Center: A New/Old Paradigm for Metabolic Syndrome'"
 date: 2020-11-16 11:41:38 +0200
 categories: [metabolizm]
-tags: [matabolizm, insulinooporność, wideo ]
+tags: [metabolizm, insulinooporność, wideo ]
 author:
   name: "Benjamin Bikman"
   link: https://youtu.be/XDVvQFgkP44

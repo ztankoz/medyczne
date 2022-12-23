@@ -3,7 +3,7 @@ layout: post
 title: "Saturated Fats and Health: A Reassessment and Proposal for Food-Based Recommendations: JACC State-of-the-Art Review  "
 date: 2020-12-25 23:46:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, choroba]
+tags: [dieta, metabolizm, choroba]
 author:
   name: "Arne Astrup  1 , Faidon Magkos  2 , Dennis M Bier  3 , J Thomas Brenna  4 , Marcia C de Oliveira Otto  5 , James O Hill  6 , Janet C King  7 , Andrew Mente  8 , Jose M Ordovas  9 , Jeff S Volek  10 , Salim Yusuf  8 , Ronald M Krauss  11 "
   link: https://pubmed.ncbi.nlm.nih.gov/32562735/

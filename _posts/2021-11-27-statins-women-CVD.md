@@ -8,7 +8,7 @@ author:
   name: "Barbara V Howard 1, Linda Van Horn, Judith Hsia, JoAnn E Manson, Marcia L Stefanick, Sylvia Wassertheil-Smoller, Lewis H Kuller, Andrea Z LaCroix, Robert D Langer, Norman L Lasser, Cora E Lewis, Marian C Limacher, Karen L Margolis, W Jerry Mysiw, Judith K Ockene, Linda M Parker, Michael G Perri, Lawrence Phillips, Ross L Prentice, John Robbins, Jacques E Rossouw, Gloria E Sarto, Irwin J Schatz, Linda G Snetselaar, Victor J Stevens, Lesley F Tinker, Maurizio Trevisan, Mara Z Vitolins, Garnet L Anderson, Annlouise R Assaf, Tamsen Bassford, Shirley A A Beresford, Henry R Black, Robert L Brunner, Robert G Brzyski, Bette Caan, Rowan T Chlebowski, Margery Gass, Iris Granek, Philip Greenland, Jennifer Hays, David Heber, Gerardo Heiss, Susan L Hendrix, F Allan Hubbell, Karen C Johnson, Jane Morley Kotchen"
   link: https://pubmed.ncbi.nlm.nih.gov/16467234
 ---
-> Komentarz: Statyny a miażdzyca u kobiet. Jakoś inaczej niż wszyscy w mediach
+> Komentarz: Statyny a miażdżyca u kobiet. Jakoś inaczej niż wszyscy w mediach
 
 <hr>
 <br>

@@ -34,7 +34,7 @@ author:
 
 [31:00 toksyczne działania ma wywoływać nie sam cukier ale jego dawka ](https://youtu.be/kDJsxw0uMLM?t=1919) wskazanie na wzrost spożycia
 
-[34:00 zozróżnienie między matabolizmem wątrobowym glukozy ](https://youtu.be/kDJsxw0uMLM?t=2045) i [35:20 i fruktozy](https://youtu.be/kDJsxw0uMLM?t=2120) - fruktoza nie tworzy glikogenu i poprzez PGC-1B potrafi aktywować Srebp-1c co nasila produkcje trójglicerydów bez hamowania produkcji glukozy
+[34:00 zozróżnienie między metabolizmem wątrobowym glukozy ](https://youtu.be/kDJsxw0uMLM?t=2045) i [35:20 i fruktozy](https://youtu.be/kDJsxw0uMLM?t=2120) - fruktoza nie tworzy glikogenu i poprzez PGC-1B potrafi aktywować Srebp-1c co nasila produkcje trójglicerydów bez hamowania produkcji glukozy
 
 [40:40 opis przyczyn procesu glikozylacji i dlaczego fruktoza ma silniejsze działanie w tym zakresie](https://youtu.be/kDJsxw0uMLM?t=2450) - glikozylacja polega na uszkodzeniu białek poprzez trwałe przyłączenie częstek cukru do nich co zmienia ich strukturę i funkcjonalność.
 

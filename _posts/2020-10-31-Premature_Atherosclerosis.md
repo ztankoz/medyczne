@@ -2,14 +2,14 @@
 layout: post
 title: "Premature Atherosclerosis Associated With Monogenic Insulin Resistance"
 date: 2020-10-30 22:41:55 +0200
-Tags: [insulinooporność, matabolizm, tłuszcz, miażdżyca]
+Tags: [insulinooporność, metabolizm, tłuszcz, miażdżyca]
 categories: [choroby]
 author: 
   name: "Robert A. Hegele"
   link: https://pubmed.ncbi.nlm.nih.gov/11342468/
 ---
 >Komentarz: 
->Rodzinna częściowa dystrofia typ Donnigana - mutacja polegająca na niemożności rozrostu tkanki tłuszczowej poprzez podział. Pojedyncze komórki tłuszczowe - najczęściej jako tłuszcz trzewny - gromadzą lipidy a u pacjentów szybko rozwija się miażdzyca.
+>Rodzinna częściowa dystrofia typ Donnigana - mutacja polegająca na niemożności rozrostu tkanki tłuszczowej poprzez podział. Pojedyncze komórki tłuszczowe - najczęściej jako tłuszcz trzewny - gromadzą lipidy a u pacjentów szybko rozwija się miażdżyca.
 >Chorzy maja olbrzymie komórki tłuszczowe, które "ulewaja" wolne kwasy tłuszczowe do krwi. Takie komórki są zapalne i generuja kaskadę takich procesów.
 >Model genetyczny pokazujący co dzieje się gdy ktoś spożywa duże ilości PUFA. 
 >PUFA zaburzają rozrost komórek tłuszczowych poprzez osłabienie podziału komórek(hiperplazja) a nasilają rozrost pojedynczej komórki(hipertrofia).

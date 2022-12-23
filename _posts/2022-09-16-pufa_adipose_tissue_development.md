@@ -3,7 +3,7 @@ layout: post
 title: "An emerging risk factor for obesity: does disequilibrium of polyunsaturated fatty acid metabolism contribute to excessive adipose tissue development?"
 date: 2022-09-16 20:41:38 +0200
 categories: [metabolizm, kwasy nienasycone]
-tags: [dieta, la, otyłośćkwasy nienasycone, pufa, tłuszcze]
+tags: [dieta, la, otyłość, kwasy nienasycone, pufa, tłuszcze]
 author:
   name: "Gérard Ailhaud 1, Philippe Guesnet, Stephen C Cunnane" 
   link: https://pubmed.ncbi.nlm.nih.gov/18307824

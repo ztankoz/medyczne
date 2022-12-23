@@ -3,7 +3,7 @@ layout: post
 title: " No Beneficial Effects of Resveratrol on the Metabolic Syndrome: A Randomized Placebo-Controlled Clinical Trial "
 date: 2020-12-30 19:49:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, polifenole, rosveratrol, zespół metaboliczny]
+tags: [dieta, metabolizm, polifenole, rosveratrol, zespół metaboliczny]
 author:
   name: "Thomas Nordstrøm Kjær  1   2 , Marie Juul Ornstrup  1   2 , Morten Møller Poulsen  1   2 , Hans Stødkilde-Jørgensen  2   3 , Niels Jessen  4 , Jens Otto Lunde Jørgensen  1   2 , Bjørn Richelsen  1   2 , Steen Bønløkke Pedersen  1   2"
   link: https://pubmed.ncbi.nlm.nih.gov/28182820

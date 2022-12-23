@@ -3,7 +3,7 @@ layout: post
 title: "Red meat and colon cancer: A review of mechanistic evidence for heme in the context of risk assessment methodology"
 date: 2020-12-28 22:16:38 +0200
 categories: [ ]
-tags: [dieta, matabolizm, mięso czerwone, żelazo, hem, nowotwór, rak okrężnicy ]
+tags: [dieta, metabolizm, mięso czerwone, żelazo, hem, nowotwór, rak okrężnicy ]
 author:
   name: "Claire Kruger  1 , Yuting Zhou  2  "
   link: https://pubmed.ncbi.nlm.nih.gov/29689357

@@ -3,7 +3,7 @@ layout: post
 title: "Is increasing reactive oxygen species a good strategy for appetite control? (WIDEO)"
 date: 2020-12-10 19:41:38 +0200
 categories: [metabolizm]
-tags: [matabolizm, ros, mitochondria ]
+tags: [metabolizm, ros, mitochondria ]
 author:
   name: "Chris Masterjohn, PhD "
   link: https://youtu.be/pPTJ_D5NCcM

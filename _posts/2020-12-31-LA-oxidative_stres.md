@@ -3,7 +3,7 @@ layout: post
 title:  A high linoleic acid diet increases oxidative stress in vivo and affects nitric oxide metabolism in humans"
 date: 2020-12-31 12:56:38 +0200
 categories: [metabolizm]
-tags: [dieta, matabolizm, la, tlenek azotu, kwas linolenowy, stres oksydacyjny]
+tags: [dieta, metabolizm, la, tlenek azotu, kwas linolenowy, stres oksydacyjny]
 author:
   name: "A.M. Turpeinen, S. Basu, M. Mutanen"
   link: https://pubmed.ncbi.nlm.nih.gov/9844997

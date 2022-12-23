@@ -2,7 +2,7 @@
 layout: post
 title: "Diet Fat Composition Alters Membrane Phospholipid Composition, Insulin Binding, and Glucose Metabolism in Adipocytes from Control and Diabetic Animals"
 date: 2020-10-29 23:41:38 +0200
-tags: [insulinooporność, insulinowrażliwość, matabolizm, cukier, tłuszcz, dieta]
+tags: [insulinooporność, insulinowrażliwość, metabolizm, cukier, tłuszcz, dieta]
 categories: [metabolizm]
 author:
   name: "Catherine J. Field+& Edmond A. Ryanll, Alan B. R. ThomsonSV, and M. Thomas Clandinin#311"

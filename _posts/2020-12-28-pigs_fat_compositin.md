@@ -3,7 +3,7 @@ layout: post
 title: "  Effect of dietary mono- and polyunsaturated fatty acids on the fatty acid composition of pigs' adiose tissues"
 date: 2020-12-28 20:46:38 +0200
 categories: [dieta]
-tags: [dieta, matabolizm, tłuszcz, la, kwas linolenowy, monogastryki]
+tags: [dieta, metabolizm, tłuszcz, la, kwas linolenowy, monogastryki]
 author:
   name: "Karola R Gläser  1 , C Wenk, M R L Scheeder"
   link: https://pubmed.ncbi.nlm.nih.gov/12389222
