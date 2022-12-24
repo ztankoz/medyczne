@@ -2,7 +2,7 @@
 layout: post
 title: "Experiments to determine mode of spread of influenza"
 date: 2022-12-17 11:59
-categories: [choroby]
+categories: [choroba, grypa]
 tags: [grypa, transmisja, zakaźność]
 author:
   name: "Milton J. Rosenau, MD"

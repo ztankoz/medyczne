@@ -2,8 +2,8 @@
 layout: post
 title: " Statins for Primary Prevention: The Debate Is Intense, but the Data Are Weak"
 date: 2022-12-13 23:28
-categories: [choroby]
-tags: [statyny, choroba niedokrwienna serca, miażdżyca, zalecenia]
+categories: [lek, statyny]
+tags: [statyny, choroba niedokrwienna serca, miażdżyca, zalecenia, dane surowe, pierwotna prewencja]
 author:
   name: "Rita F. Redberg, MD, MSc; Mitchell H. Katz, MD "
   link: https://pubmed.ncbi.nlm.nih.gov/27838702/

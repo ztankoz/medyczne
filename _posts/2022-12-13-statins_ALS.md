@@ -2,7 +2,7 @@
 layout: post
 title: "Amyotrophic Lateral Sclerosis Associated with Statin Use: A Disproportionality Analysis of the FDA’s Adverse Event Reporting System"
 date: 2022-12-13 21:53
-categories: [choroby]
+categories: [lek, statyny]
 tags: [ALS, stwardnienie zanikowe boczne, statyny]
 author:
   name: " Beatrice A. Golomb1 • Abril Verden2 • Alexis K. Messner1 • Hayley J. Koslik1 • Keith B. Hoffman"

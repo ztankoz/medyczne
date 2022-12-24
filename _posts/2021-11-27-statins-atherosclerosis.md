@@ -2,8 +2,8 @@
 layout: post
 title: "Statins stimulate atherosclerosis and heart failure: pharmacological mechanisms"
 date: 2021-11-27 7:41:38 +0200
-categories: [choroby, miażdżyca]
-tags: [statyny, miażdżyca, choroba niedokrwienna serca]
+categories: [choroba, miażdżyca]
+tags: [statyny, miażdżyca, choroba niedokrwienna serca, zawał serca]
 author:
   name: "Harumi Okuyama 1, Peter H Langsjoen, Tomohito Hamazaki, Yoichi Ogushi, Rokuro Hama, Tetsuyuki Kobayashi, Hajime Uchino"
   link: https://pubmed.ncbi.nlm.nih.gov/25655639

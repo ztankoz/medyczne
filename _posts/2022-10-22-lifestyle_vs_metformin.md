@@ -2,7 +2,7 @@
 layout: post
 title: "Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin"
 date: 2022-10-22 17:41:38 +0200
-categories: [choroby, cukrzyca]
+categories: [choroba, cukrzyca]
 tags: [metabolizm, dieta, styl życia, cukrzyca, metformina]
 author:
   name: "William C Knowler 1, Elizabeth Barrett-Connor, Sarah E Fowler, Richard F Hamman, John M Lachin, Elizabeth A Walker, David M Nathan, Diabetes Prevention Program Research Group" 

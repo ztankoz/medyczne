@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Mortality in British vegetarians "
-date: 2022-12-14 21:49
-categories: [dieta]
+date: 2020-11-02 21:49
+categories: [dieta, roślinna]
 tags: [dieta, śmiertelność, wegetarianizm, epidemiologia]
 author:
   name: "Paul N Appleby 1 , Timothy J Key, Margaret Thorogood, Michael L Burr, Jim Mann"
@@ -10,7 +10,7 @@ author:
 ---
 
 > Komentarz:
-> akie badania wymagaja rozumienia reguł rządzących statystyka oraz czynniki, które wpływaja silniej na wyniki niz to co badamy. Wegetarianie wypadaja lepiej niz ogólna populacja ale należy to przypisywać stylowi życia a nie samej diecie. Dowód? Proszę sprawdzić jakie wyniki dało podobne badanie w na populacji azjatyckiej. Podpowiedź - lustrzane
+> Takie badania wymagają rozumienia reguł rządzących statystyką oraz czynnikami, które wpływaja silniej na wyniki niz to co badamy. Wegetarianie wypadaja lepiej niż ogólna populacja ale należy to przypisywać stylowi życia a nie samej diecie. Dowód? Proszę sprawdzić jakie wyniki dało podobne badanie w na populacji azjatyckiej. Podpowiedź - lustrzane
 > alert: "Badanie epidemiologiczne czyli o słabej sile dowodowej. Takie badania opisują korelacje a nie przyczynowość"
 > 
 <hr>

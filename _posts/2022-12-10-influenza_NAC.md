@@ -2,7 +2,7 @@
 layout: post
 title: "Attenuation of influenza-like symptomatology and improvement of cell-mediated immunity with long-term N-acetylcysteine treatment "
 date: 2022-12-10 21:27
-categories: [choroby]
+categories: [lek, nac]
 tags: [grypa, nac, odporność]
 author:
   name: "S De Flora, C Grassi, L Carati "

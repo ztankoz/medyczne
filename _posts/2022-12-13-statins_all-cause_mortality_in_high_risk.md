@@ -2,15 +2,15 @@
 layout: post
 title: "Statins and all-cause mortality in high-risk primary prevention: a meta-analysis of 11 randomized controlled trials involving 65,229 participants "
 date: 2022-12-13 22:39
-categories: [choroby]
-tags: [statyny, śmiertelność, ]
+categories: [lek, statyny]
+tags: [statyny, śmiertelność, pierwotna prewencja, długość życia]
 author:
   name: "Kausik K. Ray, MD, MPhil, FACC, FESC; Sreenivasa Rao Kondapally Seshasai, MD, MPhil; Sebhat Erqou, MD, MPhil, PhD; Peter Sever, PhD, FRCP, FESC; J. Wouter Jukema, MD, PhD; Ian Ford, PhD; Naveed Sattar, FRCPath"
   link: https://pubmed.ncbi.nlm.nih.gov/20585067/
 ---
 
 > Komentarz:
-> brak celowości stosowania statyn jeśli celem głównym jesy długość życia
+> brak celowości stosowania statyn jeśli celem głównym jest długość życia
 > 
 <hr>
 

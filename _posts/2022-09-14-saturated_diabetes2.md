@@ -2,7 +2,7 @@
 layout: post
 title: "Saturated Fatty Acid Intake and Risk of Type 2 Diabetes: An Updated Systematic Review and Dose–Response Meta-Analysis of Cohort Studies"
 date: 2022-09-14 12:41:38 +0200
-categories: [choroby, cukrzyca]
+categories: [choroba, cukrzyca]
 tags: [dieta, cukrzyca, kwas linolenowy, la, tłuszcze nasycone, tłuszcze nienasycone]
 author:
   name: "Zahra Gaeini, Zahra Bahadoran, Parvin Mirmiran" 

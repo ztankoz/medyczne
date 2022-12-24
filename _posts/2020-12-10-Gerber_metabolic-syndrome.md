@@ -2,7 +2,7 @@
 layout: post
 title: "Dr. Jeffry Gerber - The Metabolic Syndrome and other Nutritional Disorders (WIDEO)"
 date: 2020-12-10 21:41:38 +0200
-categories: [choroby ]
+categories: [choroba, zespół mataboliczny]
 tags: [choroby, metabolizm, dieta, zespół metaboliczny ]
 author:
   name: "Jeffry Gerber "

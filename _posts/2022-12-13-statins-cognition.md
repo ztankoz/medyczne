@@ -2,7 +2,7 @@
 layout: post
 title: "The effect of HMG-CoA reductase inhibitors on cognition in patients with Alzheimer's dementia: a prospective withdrawal and rechallenge pilot study"
 date: 2022-12-13 20:51
-categories: [choroby]
+categories: [choroba, otępienie]
 tags: [statyny, otępienie, miażdżyca, cholesterol]
 author:
   name: "Kalpana P. Padala, MD, MS1,2; Prasad R. Padala, MD, MS1,2,3; Dennis P. McNeilly, PsyD4 ; Jenenne A. Geske, PhD5 ; Dennis H. Sullivan, MD1,2; and Jane F. Potter, MD6 "

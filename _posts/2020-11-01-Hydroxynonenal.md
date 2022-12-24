@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Role of Physiological Levels of 4-Hydroxynonenal on Adipocyte Biology: Implications for Obesity and Metabolic Syndrome"
-date: 2022-12-14 21:44
-categories: [metabolizm]
-tags: [insulinooporność, insulinowrażliwość, metabolizm, tłuszcz]
+date: 2020-11-01 21:44
+categories: [metabolizm, kwas linolenowy]
+tags: [insulinooporność, insulinowrażliwość, metabolizm, tłuszcz, 4-hne, hne, adipocyty, zespół metaboliczny, otyłość]
 author:
   name: "Kalavathi Dasuri,_ Philip Ebenezer,_ Sun Ok Fernandez-Kim,_ Le Zhang,_ Zhanguo Gao,_ Annadora J Bruce-Keller,_ Linnea R Freeman,_ and Jeffrey N. Keller_,a "
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4038367/pdf/nihms557612.pdf

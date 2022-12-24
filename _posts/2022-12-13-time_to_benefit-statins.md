@@ -2,8 +2,8 @@
 layout: post
 title: "Evaluation of Time to Benefit of Statins for the Primary Prevention of Cardiovascular Events in Adults Aged 50 to 75 Years: A Meta-analysis "
 date: 2022-12-13 22:16
-categories: [choroby]
-tags: [statyny, miażdżyca]
+categories: [lek, statyny]
+tags: [statyny, miażdżyca, pierwotna prewencja, długość życia]
 author:
   name: "Lindsey C. Yourman, MD; Irena S. Cenzer, MA; W. John Boscardin, PhD; Brian T. Nguyen, BA; Alexander K. Smith, MD, MPH; Mara A. Schonberg, MD, MPH; Nancy L. Schoenborn, MD, MHS; Eric W. Widera, MD; Ariela Orkaby, MD, MPH; Annette Rodriguez, MA; Sei J. Lee, MD, MAS"
   link: https://pubmed.ncbi.nlm.nih.gov/33196766/

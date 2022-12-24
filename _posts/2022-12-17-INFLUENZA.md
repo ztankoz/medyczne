@@ -2,7 +2,7 @@
 layout: post
 title: "Influenza - series of experiments at Boston, November and December, 1918"
 date: 2022-12-17 10:59
-categories: [choroby]
+categories: [choroba, grypa]
 tags: [grypa, transmisja, zakaźność]
 author:
   name: "Lieut. Commander M.J. Rosenau and Lieut. W.J. Keegan, Surg. Joseph Goldberger, Asst.Surg G.C.Lake"

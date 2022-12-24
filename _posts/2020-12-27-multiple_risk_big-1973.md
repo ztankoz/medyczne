@@ -2,7 +2,7 @@
 layout: post
 title: "  Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group "
 date: 2020-12-27 23:46:38 +0200
-categories: [choroby ]
+categories: [choroba, miażdżyca]
 tags: [dieta, metabolizm, choroba, tłuszcz, ldl ]
 author:
   name: "Nie są podawani autorzy(?) "

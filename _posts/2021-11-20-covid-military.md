@@ -2,7 +2,7 @@
 layout: post
 title: "Health-Related Behaviors and Odds of COVID-19 Hospitalization in a Military Population"
 date: 2021-11-20 13:41:38 +0200
-categories: [choroby, covid]
+categories: [choroba, covid]
 tags: [covid, nawyki]
 author:
   name: "Bryant J Webber 1 2 3, Michael A Lang 1 2, David M Stuever 1, James D Escobar 1, Victoria F H Bylsma 1 4, Gregory G Wolff 1"

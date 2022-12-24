@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Possible Protective Effect of Milk, Meat and Fish for Cerebrovascular Disease Mortality in Japan "
-date: 2022-12-14 21:54
-categories: [dieta]
-tags: [śmiertelność, epidemiologia, mięso, mleko]
+date: 2020-11-02 21:54
+categories: [dieta, zwierzęca]
+tags: [śmiertelność, epidemiologia, mięso, mleko, ryby]
 author:
   name: "Yoshihide Kinjo, Valerie Beral, Suminori Akiba, Tim Key, Shoichi Mizuno, Paul Appleby, Naohito Yamaguchi, Shaw Watanabe, Richard Doll "
   link: https://www.jstage.jst.go.jp/article/jea1991/9/4/9_4_268/_article

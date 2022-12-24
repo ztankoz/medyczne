@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Lowering dietary linoleic acid reduces bioactive oxidized linoleic acid metabolites in humans "
-date: 2022-12-14 21:46
-categories: [dieta]
+date: 2020-11-01 21:46
+categories: [dieta, tłuszcze]
 tags: [ insulinooporność, insulinowrażliwość, metabolizm, tłuszcz]
 author:
   name: "Christopher E. Ramsden,1,2, Amit Ringel,1 Ariel E. Feldstein,3,4 Ameer Y. Taha,5 Beth A. MacIntosh,6 Joseph R. Hibbeln,1 Sharon F. Majchrzak-Hong,1 Keturah R. Faurot,2 Stanley I. Rapoport,5 Yewon Cheon,5 Yoon-Mi Chung,4 Michael Berk,4 and J. Douglas Mann "
@@ -10,7 +10,7 @@ author:
 ---
 
 > Komentarz:
-> LA jako produkt roślin był używany przez człowieka w okresie przed zimą gdy konieczne było magazynowanie zapasów tłuszczowych na zimę. Obecna podaż tego oleju przekracza potrzeby ludzkiego organizmu. Każda substancja w nadmierze staje sie trucizną.
+> LA jako składnik roślin był używany przez człowieka w okresie przed zimą gdy konieczne było magazynowanie zapasów tłuszczowych na zimę. Obecna podaż tego oleju przekracza potrzeby ludzkiego organizmu. Każda substancja w nadmierze staje sie trucizną.
 > 
 <hr>
 

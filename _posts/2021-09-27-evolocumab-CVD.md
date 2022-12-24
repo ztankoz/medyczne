@@ -2,7 +2,7 @@
 layout: post
 title: "Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease"
 date: 2021-09-27 19:56:38 +0200
-categories: [choroby, choroba niedokrwienna serca]
+categories: [choroba, choroba niedokrwienna serca]
 tags: [sieta, evolocumab, cholesterol, PKSK9]
 author:
   name: " Marc S Sabatine  1 , Robert P Giugliano  1 , Anthony C Keech  1 , Narimon Honarpour  1 , Stephen D Wiviott  1 , Sabina A Murphy  1 , Julia F Kuder  1 , Huei Wang  1 , Thomas Liu  1 , Scott M Wasserman  1 , Peter S Sever  1 , Terje R Pedersen  1 , "

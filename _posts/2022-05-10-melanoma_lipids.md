@@ -2,7 +2,7 @@
 layout: post
 title: "Melanoma and dietary lipids"
 date: 2022-05-10 21:41:38 +0200
-categories: [choroby, czerniak]
+categories: [choroba, czerniak]
 tags: [czerniak, tłuszcze, dieta, nowotwór ]
 author:
   name: "B S Mackie, L E Mackie, L D Curtin, D J Bourne" 

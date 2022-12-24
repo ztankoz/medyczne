@@ -2,7 +2,7 @@
 layout: post
 title: "Bread and Other Edible Agents of Mental Disease"
 date: 2021-09-19 22:56:38 +0200
-categories: [choroby, choroby psychiczne]
+categories: [choroba, choroby psychiczne]
 tags: [dieta, jelita, choroby psychiczne, chleb]
 author:
   name: " Paola Bressan  1 , Peter Kramer  1 "

@@ -2,14 +2,14 @@
 layout: post
 title: " Statin therapy for the primary prevention of cardiovascular disease: Cons"
 date: 2022-12-13 22:44
-categories: [choroby]
-tags: [statyny, miażdżyca, choroba niedokrwienna serca]
+categories: [lek, statyny]
+tags: [statyny, miażdżyca, choroba niedokrwienna serca, pierwotna prewencja]
 author:
   name: "Vivek Durai, Rita F. Redberg *"
   link: https://pubmed.ncbi.nlm.nih.gov/35934533/
 ---
 
-> Komentarz
+> Komentarz: statyny w prewencji pierwotnej choroby niedokrwiennej serca
 > 
 <hr>
 

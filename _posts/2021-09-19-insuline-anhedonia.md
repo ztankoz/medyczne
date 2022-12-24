@@ -2,7 +2,7 @@
 layout: post
 title: "Brain insulin resistance: A treatment target for cognitive impairment and anhedonia in depression"
 date: 2021-09-19 21:56:38 +0200
-categories: [choroby, choroby psychiczne]
+categories: [choroba, choroby psychiczne]
 tags: [dieta, insulina, anhedonia]
 author:
   name:  " Julia A Hamer  1 , Daniela Testani  2 , Rodrigo B Mansur  1 , Yena Lee  1 , Mehala Subramaniapillai  2 , Roger S McIntyre  3 " 

@@ -2,7 +2,7 @@
 layout: post
 title: "Statin use and risk of diabetes mellitus in postmenopausal women in the Women's Health Initiative"
 date: 2021-11-27 11:41:38 +0200
-categories: [choroby, cukrzyca]
+categories: [choroba, cukrzyca]
 tags: [statyny, cukrzyca, pomenopauzalny]
 author:
   name:  "Annie L Culver 1, Ira S Ockene, Raji Balasubramanian, Barbara C Olendzki, Deidre M Sepavich, Jean Wactawski-Wende, Joann E Manson, Yongxia Qiao, Simin Liu, Philip A Merriam, Catherine Rahilly-Tierny, Fridtjof Thomas, Jeffrey S Berger, Judith K Ockene, J David Curb, Yunsheng Ma" 

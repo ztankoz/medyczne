@@ -2,7 +2,7 @@
 layout: post
 title: "Insulin resistance in brain alters dopamine turnover and causes behavioral disorders"
 date: 2021-09-19 20:56:38 +0200
-categories: [choroby, zaburzenia psychiczne]
+categories: [choroba, zaburzenia psychiczne]
 tags: [dieta, insulina, dopamina, zaburzenia zachowania]
 author:
   name: " Andre Kleinridders  1 , Weikang Cai  1 , Laura Cappellucci  2 , Armen Ghazarian  2 , William R Collins  3 , Sara G Vienberg  1 , Emmanuel N Pothos  4 , C Ronald Kahn   "

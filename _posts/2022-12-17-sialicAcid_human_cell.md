@@ -2,7 +2,7 @@
 layout: post
 title: "Mechanism of uptake and incorporation of the non-human sialic acid N-glycolylneuraminic acid into human cells "
 date: 2022-12-17 22:44
-categories: [metabolizm, teoria]
+categories: [metabolizm, Neu5Gc]
 tags: [Neu5Gc, sialic acid, nowotwór]
 author:
   name: "Muriel Bardor‡, Dzung H. Nguyen, Sandra Diaz, and Ajit Varki"

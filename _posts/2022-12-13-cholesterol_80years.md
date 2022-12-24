@@ -2,7 +2,7 @@
 layout: post
 title: " Trajectory of Total Cholesterol in the Last Years of Life Over Age 80 Years: Cohort Study of 99,758 Participants"
 date: 2022-12-13 23:22
-categories: [choroby]
+categories: [długość życia, cholesterol]
 tags: [długość życia, cholesterol]
 author:
   name: "Judith  Charlton, MSc,1 Rathi  Ravindrarajah, PhD,1 Shota  Hamada, DrPH,1,2 Stephen H. Jackson, MD,3 and Martin C. Gulliford, MA1,4 "

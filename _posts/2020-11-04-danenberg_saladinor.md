@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Carnivore Diet for Cancer? The personal story of Dr. Al Danenberg. "
-date: 2022-12-14 22:18
+date: 2020-11-04 22:18
 categories: [dieta]
 tags: [dieta, kwas linolenowy, tłuszcz, la, nowotwór, wideo]
 author:

@@ -3,7 +3,7 @@ layout: post
 title: "Effects of adding L-arginine orally to standard therapy in patients with
 COVID-19: A randomized, double-blind, placebo-controlled, parallel-group trial. Results of the first interim analysis"
 date: 2021-10-03 12:41:38 +0200
-categories: [choroby, covid]
+categories: [choroba, covid]
 tags: [arginina, covid]
 author:
   name: "Giuseppe Fiorentinoa,1, Antonietta Coppolaa,1, Raffaele Izzob, Anna Annunziataa, Mariano Bernardoa, Angela Lombardic,d, Valentina Trimarcoe, Gaetano Santullib,c,f,g,*, Bruno Trimarcob,g"

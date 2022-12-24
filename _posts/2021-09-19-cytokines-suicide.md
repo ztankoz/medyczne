@@ -2,7 +2,7 @@
 layout: post
 title: " Interleukin-6 is elevated in the cerebrospinal fluid of suicide attempters and related to symptom severity "
 date: 2021-09-19 18:56:38 +0200
-categories: [choroby, samobójstwo]
+categories: [choroba, samobójstwo]
 tags: [dieta, zapalenie, samobójstwo]
 author:
   name:  " Daniel Lindqvist  1 , Shorena Janelidze, Peter Hagell, Sophie Erhardt, Martin Samuelsson, Lennart Minthon, Oskar Hansson, Maria Björkqvist, Lil Träskman-Bendz, Lena Brundin " 

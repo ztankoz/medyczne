@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Effect of Dietary Unsaturated and Saturated Fats on Azoxymethane-induced Colon Carcinogenesis in Rats"
-date: 2022-12-14 22:22
-categories: [dieta]
+date: 2020-11-04 22:22
+categories: [dieta, tłuszcze]
 tags: [dieta, kwas linolenowy, tłuszcz, la, nowotwór]
 author:
   name: "Michitomo Sakaguchi, Yoshifumi Hiramatsu, Hideho Takada, Manabu Yamamura, Koshiro Hioki, Kunihiko Saito and Masakatsu Yamamoto "

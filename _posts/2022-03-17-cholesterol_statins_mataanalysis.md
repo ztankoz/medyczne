@@ -2,7 +2,7 @@
 layout: post
 title: "Evaluating the Association Between Low-Density Lipoprotein Cholesterol Reduction and Relative and Absolute Effects of Statin Treatment: A Systematic Review and Meta-analysis"
 date: 2022-03-17 8:41:38 +0200
-categories: [leki, statyny]
+categories: [lek, statyny]
 tags: [ldl, cholesterol, statyny, ryzyko względne, ryzyko bezwzględne]
 author:
   name:  "Paula Byrne 1, Maryanne Demasi 2, Mark Jones 3, Susan M Smith 1 4, Kirsty K O'Brien 5, Robert DuBroff 6"  

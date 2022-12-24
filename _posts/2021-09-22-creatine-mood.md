@@ -2,7 +2,7 @@
 layout: post
 title: " Creatine for the Treatment of Depression "
 date: 2021-09-22 22:56:38 +0200
-categories: [choroby, depresja]
+categories: [choroba, depresja]
 tags: [dieta, kreatyna, depresja]
 author:
   name: " Brent M Kious  1 , Douglas G Kondo  2   3 , Perry F Renshaw  2   3 "

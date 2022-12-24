@@ -2,8 +2,8 @@
 layout: post
 title: " The effect of statins on average survival in randomised trials, an analysis of end point postponement"
 date: 2021-09-27 21:56:38 +0200
-categories: [leki, statyny]
-tags: [statyny, długowieczność, przeżywalność]
+categories: [lek, statyny]
+tags: [statyny, długowieczność, przeżywalność, długość życia]
 author:
   name: " Malene Lopez Kristensen  1 , Palle Mark Christensen  1 , Jesper Hallas  2"
   link: https://pubmed.ncbi.nlm.nih.gov/26408281/
