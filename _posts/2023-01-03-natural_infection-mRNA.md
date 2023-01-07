@@ -10,7 +10,7 @@ author:
 ---
 
 > Komentarz: 
-> Dwukrotnie większa odporność po przechorowaniu w stosunku do szczepienia
+> Dwukrotnie większa odporność po przechorowaniu w stosunku do szczepienia. Wiadome od początku ale "eksperci za pieniądze" przekonywali, że jest inaczej
 > 
 <hr>
 

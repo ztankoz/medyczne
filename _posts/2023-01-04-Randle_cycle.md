@@ -10,7 +10,8 @@ author:
 ---
 
 > Komentarz:
-> Autorzy wykazują skrzywienie związane z popularyzacją diety niskotłuszczowej ale zasada działania organizmu w zakresie krzyżowego matabolizmu cukry-tłuszcze jak najbardziej pozostaje aktualna
+> Praca teoretyczna z 1963 roku
+> Autorzy wykazują skrzywienie związane z popularyzacją diety niskotłuszczowej ale zasada działania organizmu w zakresie krzyżowego matabolizmu cukry-tłuszcze jak najbardziej pozostaje aktualna. 
 > 
 <hr>
 
