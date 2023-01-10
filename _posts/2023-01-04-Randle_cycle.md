@@ -11,8 +11,12 @@ author:
 
 > Komentarz:
 > Praca teoretyczna z 1963 roku
-> Autorzy wykazują skrzywienie związane z popularyzacją diety niskotłuszczowej ale zasada działania organizmu w zakresie krzyżowego matabolizmu cukry-tłuszcze jak najbardziej pozostaje aktualna. 
-> 
+> Autorzy wykazują skrzywienie związane z popularyzacją diety niskotłuszczowej i staraja się uniknąć oczywistych wniosków. Jednak zasada działania organizmu w zakresie krzyżowego matabolizmu cukry-tłuszcze jak najbardziej pozostaje aktualna. 
+
+**Wnioski:**
+- przy dostępności tłuszczu jako źródła energii, komórka uniemoźliwia napływ cukru
+- ten proces chroni pojedynczą komórkę przed glikozylacją i śmiercią gdyby poziomy glukozy były zbyt wysokie
+- przy nadmiarze cukru jako źródła energii, komórka przekierowuje utylizacje energii z tłuszczów w kierunku składowania trójglicerydów a nadmiar cukru zmienia w tłuszcz
 <hr>
 
 [Skrót do pracy](https://pubmed.ncbi.nlm.nih.gov/13990765/) 
