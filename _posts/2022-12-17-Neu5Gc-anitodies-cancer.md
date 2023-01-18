@@ -2,7 +2,7 @@
 layout: post
 title: "Association between Neu5Gc carbohydrate and serum antibodies against it provides the molecular link to cancer: French NutriNet-Santé study "
 date: 2022-12-17 22:34
-categories: [dieta, mięso]
+categories: [dieta, mięsna]
 tags: [czerwone mięso, nowotwór, sialic acid, przeciwciała]
 author:
   name: "Salam Bashir1† , Leopold K. Fezeu2† , Shani Leviatan Ben-Arye1 , Sharon Yehuda1 , Eliran Moshe Reuven1 , Fabien Szabo de Edelenyi2 , Imen Fellah-Hebia3 , Thierry Le Tourneau4 , Berthe Marie Imbert-Marcille5 , Emmanuel B. Drouet6 , Mathilde Touvier2 , Jean-Christian Roussel3 , Hai Yu7 , Xi Chen7 , Serge Hercberg2 , Emanuele Cozzi8 , Jean-Paul Soulillou9 , Pilar Galan2 and Vered Padler-Karavani "

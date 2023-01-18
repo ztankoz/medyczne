@@ -2,7 +2,7 @@
 layout: post
 title: "Raw and Cooked Vegetable Consumption and Risk of Cardiovascular Disease: A Study of 400,000 Adults in UK Biobank"
 date: 2022-02-28 20:41:38 +0200
-categories: [dieta, rośliny]
+categories: [dieta, roślinna]
 tags: [dieta, choroba niedokrwienna serca, vegatarianizm]
 author:
   name: "Qi Feng1,2*, Jean H. Kim2, Wemimo Omiyale1, Jelena Bešević1, Megan Conroy1, Margaret May3, Zuyao Yang2, Samuel Yeung-shan Wong2, Kelvin Kam-fai Tsoi2,4†, Naomi Allen1† and Ben Lacey1†" 
