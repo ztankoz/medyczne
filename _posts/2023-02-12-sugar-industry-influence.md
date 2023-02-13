@@ -2,7 +2,7 @@
 layout: post
 title: "Sugar industry influence on the scientific agenda of the National Institute of Dental Research's 1971 National Caries Program: a historical analysis of internal documents "
 date: 2023-02-12 21:34
-categories: [medycyna]
+categories: [medycyna, polityka]
 tags: [cukier, stomatologia, fluor, ubytki, konflikt interesów, finansowanie, przemysł farmaceutyczny, przemysł spożywczy]
 author:
   name: " Cristin E. Kearns1,2,3, Stanton A. Glantz1,2,4,5*, Laura A. Schmidt1,2,6,7"

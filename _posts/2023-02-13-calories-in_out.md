@@ -2,7 +2,7 @@
 layout: post
 title: " The energy balance theory is an inconsistent paradigm "
 date: 2023-02-13 07:25
-categories: [dietetyka]
+categories: [dieta, kaloryczność]
 tags: [waga ciała, balans energetyczny, masa tłuszczowa]
 author:
   name: "Francisco Arencibia-Albite "

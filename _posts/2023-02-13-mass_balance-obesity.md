@@ -2,7 +2,7 @@
 layout: post
 title: " Chronic Positive Mass Balance is the Actual Etiology of Obesity: A Living Review "
 date: 2023-02-13 07:44
-categories: [dietetyka]
+categories: [dieta, karoryczność]
 tags: [otyłość, masa ciała]
 author:
   name: "Anssi H. Manninen "

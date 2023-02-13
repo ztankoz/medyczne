@@ -2,7 +2,7 @@
 layout: post
 title: " Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents "
 date: 2023-02-12 22:26
-categories: [medycyna]
+categories: [medycyna, polityka]
 tags: [cukier, korupcja, przemysł żywieniowy, przemysł cukrowy, choroba niedokrwienna serca]
 author:
   name: "Cristin E. Kearns, DDS, MBA; Laura A. Schmidt, PhD, MSW, MPH; Stanton A. Glantz, PhD "

@@ -2,7 +2,7 @@
 layout: post
 title: "Serious analytical inconsistencies challenge the validity of the energy balance theory "
 date: 2023-02-13 07:55
-categories: [dietetyka]
+categories: [dieta, kaloryczność]
 tags: [matematyka stosowana, masa ciała, bilans energetyczny, dieta niskowęglowodanowa, dieta niskotłuszczowa, bilans masy, metabolizm, patofizjologia, fizjologia]
 author:
   name: "Francisco Arencibia-Albite "
