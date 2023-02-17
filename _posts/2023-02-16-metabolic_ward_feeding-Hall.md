@@ -13,7 +13,7 @@ author:
 > 
 <hr>
 
-[Skrót do pracy]() 
+[Skrót do pracy](https://www.authorea.com/doi/full/10.22541/au.166134987.70569518/v1) 
 
 ### Abstract
 **Background & Aims**

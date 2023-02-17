@@ -5,7 +5,7 @@ date: 2023-02-16 21:15
 categories: [dieta, żelazo]
 tags: [anemia, fasola, biodostępność, niedobór żelaza]
 author:
-  name: "Marcia Varella Morandi Junqueira-Franco  a, * , Jose Eduardo Dutra de Oliveira  a , Marilia Regini Nutti b , Helton Santos Pereira b , Jose Luiz Vianna de Carvalho  b , Steven A. Abrams c , Camila Fernanda Cunha Brandao~ a , Júlio Sergio Marchini"
+  name: "Marcia Varella Morandi Junqueira-Franco , * , Jose Eduardo Dutra de Oliveira , Marilia Regini Nutti b , Helton Santos Pereira b , Jose Luiz Vianna de Carvalho  , Steven A. Abrams c , Camila Fernanda Cunha Brandao~ a , Júlio Sergio Marchini"
   link: https://pubmed.ncbi.nlm.nih.gov/29779806/
 ---
 
