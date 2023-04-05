@@ -37,4 +37,4 @@ Wyniki: Częstość występowania uchyłków jelita grubego wzrastała wraz z wi
   
 Wnioski: Dieta wysokobłonnikowa i zwiększona częstotliwość wypróżnień są związane z większą, a nie mniejszą częstością występowania uchyłków jelita grubego. Należy ponownie rozważyć hipotezy dotyczące czynników ryzyka bezobjawowej choroby uchyłkowej.
 
-[Pałny tekst](https://drop.2to2.pm/wmYUMozM/A%20High-Fiber%20Diet%20Does%20Not%20Protect%20Against%20Asymptomatic%20Diverticulosis.pdf)
+[Pałny tekst](https://drop.2to2.pm/wmYUMozM/A%2520High-Fiber%2520Diet%2520Does%2520Not%2520Protect%2520Against%2520Asymptomatic%2520Diverticulosis.pdf)
