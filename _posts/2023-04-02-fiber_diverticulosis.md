@@ -10,7 +10,7 @@ author:
 ---
 
 > Komentarz: 
-> W zasadzie oczywiste wnioski. Pożywienie bogatobłonnikowe "zmusza" jelito grube do długotrwałej, intensywnej pracy, do której to, po 4,5 milionach lat ewolucji gayunku ludzkiego jako mięsożernego nie jest przygotowane.
+> W zasadzie oczywiste wnioski. Pożywienie bogatobłonnikowe "zmusza" jelito grube do długotrwałej, intensywnej pracy, do której to - po 4,5 milionach lat ewolucji gatunku ludzkiego jako mięsożernego - nie jest przygotowane.
 > Zdrowotne koszty ideologii patowegańskiej. 
 > 
 <hr>
