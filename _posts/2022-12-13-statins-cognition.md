@@ -15,6 +15,7 @@ author:
 <hr>
 
 [Skrót do pracy](https://pubmed.ncbi.nlm.nih.gov/22921881/) 
+[Pełny tekst](https://drop.2to2.pm/AvuspeXy/The%20Effect%20of%20HMG-CoA%20Reductase%20Inhibitors%20on%20Cognition%20in%20Patients%20With%20Alzheimer%u2019s%20Dementia%3A%20A%20Prospective%20Withdrawal%20and%20Rechallenge%20Pilot%20Study.pdf)
 
 ### Abstract
 **Background:** Statins are well-known for their cardiovascular benefits. However, the cognitive effects of statins are not well understood. We hypothesized that individuals with preexisting dementia would be more vulnerable to statin-related cognitive effects.
