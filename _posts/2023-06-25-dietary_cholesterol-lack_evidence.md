@@ -5,7 +5,7 @@ date: 2023-06-25 22:06
 categories: [dieta,cholesterol]
 tags: [ldl, hdl, cholesterol, choroba niedokrwienna serca]
 author:
-  name: " [Ghada A Soliman](https://pubmed.ncbi.nlm.nih.gov/?term=Soliman+GA&cauthor_id=29914176) [1](https://pubmed.ncbi.nlm.nih.gov/29914176/#full-view-affiliation-1 "Department of Environmental, Occupational, and Geospatial Health Sciences, CUNY Graduate School of Public Health and Health Policy, The City University of New York, 55 W. 125th Street, New York, NY 10027, USA. ghada.soliman@sph.cuny.edu.")"
+  name: " Ghada A Soliman"
   link: https://pubmed.ncbi.nlm.nih.gov/29914176/
 ---
 
