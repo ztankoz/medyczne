@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Blood biomarker profles and exceptional longevity: comparison of centenarians and non‑centenarians in a 35‑year follow‑up of the Swedish AMORIS cohort"
+date: 2023-09-28 22:21
+categories: [medycyna, długowieczność]
+tags: [długowieczność, cholesterol, ggtp, kwas moczowy]
+author:
+  name: " Shunsuke Murata, Marcus Ebeling  Anna C. Meyer, Katharina Schmidt‑Mende,,Niklas Hammar, Karin Modig"
+  link: https://pubmed.ncbi.nlm.nih.gov/37726432/
+---
+
+> Komentarz: Wieloletnie badanie porównujące biomekarkery stulatków z tymi, którzy tego wieku nie dożyli. Zaskakująca rola wysokiego cholesterolu w dożyciu 100 lat, wzbudza kolejne wątpliwości co do celowości tak agresywnego obniżania go lekami.
+> 
+<hr>
+
+[Skrót do pracy](https://drop.2to2.pm/LBzSeNjL/Blood%20biomarker%20profles%20and%20exceptional%20longevity.pdf) 
+
+### Abstract
+Comparing biomarker profiles measured at similar ages, but earlier in life, among exceptionally long-lived individuals and their shorter-lived peers can improve our understanding of aging processes. This study aimed to (i) describe and compare biomarker profiles at similar ages between 64 and 99 among individuals eventually becoming centenarians and their shorter-lived peers, (ii) investigate the association between specific biomarker values and the chance of reaching age 100, and (iii) examine to what extent centenarians have homogenous biomarker profiles earlier in life. Participants in the population-based AMORIS cohort with information on blood-based biomarkers measured during 1985-1996 were followed in Swedish register data for up to 35 years. We examined biomarkers of metabolism, inflammation, liver, renal, anemia, and nutritional status using descriptive statistics, logistic regression, and cluster analysis. In total, 1224 participants (84.6% females) lived to their 100th birthday. Higher levels of total cholesterol and iron and lower levels of glucose, creatinine, uric acid, aspartate aminotransferase, gamma-glutamyl transferase, alkaline phosphatase, lactate dehydrogenase, and total iron-binding capacity were associated with reaching 100 years. Centenarians overall displayed rather homogenous biomarker profiles. Already from age 65 and onwards, centenarians displayed more favorable biomarker values in commonly available biomarkers than individuals dying before age 100. The differences in biomarker values between centenarians and non-centenarians more than one decade prior death suggest that genetic and/or possibly modifiable lifestyle factors reflected in these biomarker levels may play an important role for exceptional longevity.
+
+
+### Streszczenie
+Porównanie profili biomarkerów mierzonych w podobnym wieku, ale wcześniej w życiu, wśród wyjątkowo długowiecznych osób i ich krócej żyjących rówieśników może poprawić nasze zrozumienie procesów starzenia. Niniejsze badanie miało na celu (i) opisanie i porównanie profili biomarkerów w podobnym wieku między 64 a 99 rokiem życia wśród osób, które ostatecznie zostaną stulatkami i ich krócej żyjących rówieśników, (ii) zbadanie związku między określonymi wartościami biomarkerów a szansą na osiągnięcie wieku 100 lat oraz (iii) zbadanie, w jakim stopniu stulatkowie mają jednorodne profile biomarkerów we wcześniejszym okresie życia. Uczestnicy populacyjnej kohorty AMORIS z informacjami na temat biomarkerów mierzonych we krwi w latach 1985-1996 byli obserwowani w szwedzkich danych rejestrowych przez okres do 35 lat. Zbadaliśmy biomarkery metabolizmu, stanu zapalnego, wątroby, nerek, niedokrwistości i stanu odżywienia przy użyciu statystyk opisowych, regresji logistycznej i analizy skupień. W sumie 1224 uczestników (84,6% kobiet) dożyło 100. urodzin. Wyższe poziomy cholesterolu całkowitego i żelaza oraz niższe poziomy glukozy, kreatyniny, kwasu moczowego, aminotransferazy asparaginianowej, gamma-glutamylotransferazy, fosfatazy alkalicznej, dehydrogenazy mleczanowej i całkowitej zdolności wiązania żelaza były związane z osiągnięciem 100 lat. Stulatkowie ogólnie wykazywali raczej jednorodne profile biomarkerów. Już od 65 roku życia stulatkowie wykazywali korzystniejsze wartości biomarkerów w powszechnie dostępnych biomarkerach niż osoby umierające przed 100 rokiem życia. Różnice w wartościach biomarkerów między stulatkami a osobami niebędącymi stulatkami ponad dekadę przed śmiercią sugerują, że czynniki genetyczne i/lub potencjalnie modyfikowalne czynniki stylu życia odzwierciedlone w tych poziomach biomarkerów mogą odgrywać ważną rolę w wyjątkowej długowieczności.
