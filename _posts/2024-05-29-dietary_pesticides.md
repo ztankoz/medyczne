@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Dietary pesticides (99.99% all natural).
+title: "Dietary pesticides (99.99% all natural)."
 date: 2024-05-29 21:15
-categories: [dieta]
+categories: [dieta,pestycydy]
 tags: [pestycydy]
-author: " B N Ames, M Profet, and L S Gold"
-  name: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC54831/"
+author:
+  name: " B N Ames, M Profet, and L S Gold"
+  link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC54831/"
 ---
 
 > Komentarz
